@@ -1,0 +1,928 @@
+NAME,nameID,RACE,raceID,sampleSize,AGE_ADJUSTED_RATE,AGE_ADJUSTED_CI_LOWER,AGE_ADJUSTED_CI_UPPER,moe,rse,risk_factor,SEX
+,,,,,,,,,,,
+Atlantic,1,"Asian, non-Hispanic",1,17,**,**,**,0.268,0.335,Breast,Male and Female
+Atlantic,1,"Black/African American, non-Hispanic",2,132,0.621,0.495,0.732,0.121,0.162,Breast,Male and Female
+Atlantic,1,"White, non-Hispanic",3,699,0.584,0.533,0.634,0.051,0.062,Breast,Male and Female
+Atlantic,1,"Other, non-Hispanic",4,33,**,**,**,0.208,0.215,Breast,Male and Female
+Atlantic,1,Hispanic/Latino,5,115,0.514,0.398,0.629,0.118,0.124,Breast,Male and Female
+,,,,,,,,,,,
+Bergen,2,"Asian, non-Hispanic",1,49,**,**,**,0.175,0.181,Breast,Male and Female
+Bergen,2,"Black/African American, non-Hispanic",2,82,0.489,0.348,0.632,0.145,0.152,Breast,Male and Female
+Bergen,2,"White, non-Hispanic",3,678,0.603,0.549,0.655,0.053,0.068,Breast,Male and Female
+Bergen,2,"Other, non-Hispanic",4,27,**,**,**,0.264,0.303,Breast,Male and Female
+Bergen,2,Hispanic/Latino,5,170,0.569,0.464,0.668,0.103,0.122,Breast,Male and Female
+,,,,,,,,,,,
+Burlington,3,"Asian, non-Hispanic",1,18,**,**,**,0.289,0.299,Breast,Male and Female
+Burlington,3,"Black/African American, non-Hispanic",2,181,0.555,0.447,0.658,0.107,0.123,Breast,Male and Female
+Burlington,3,"White, non-Hispanic",3,862,0.578,0.53,0.624,0.047,0.057,Breast,Male and Female
+Burlington,3,"Other, non-Hispanic",4,28,**,**,**,0.251,0.286,Breast,Male and Female
+Burlington,3,Hispanic/Latino,5,55,0.611,0.443,0.756,0.161,0.212,Breast,Male and Female
+,,,,,,,,,,,
+Camden,4,"Asian, non-Hispanic",1,15,**,**,**,0.296,0.4,Breast,Male and Female
+Camden,4,"Black/African American, non-Hispanic",2,210,0.541,0.446,0.633,0.095,0.105,Breast,Male and Female
+Camden,4,"White, non-Hispanic",3,857,0.565,0.518,0.611,0.047,0.055,Breast,Male and Female
+Camden,4,"Other, non-Hispanic",4,27,**,**,**,0.262,0.273,Breast,Male and Female
+Camden,4,Hispanic/Latino,5,110,0.461,0.341,0.585,0.125,0.138,Breast,Male and Female
+,,,,,,,,,,,
+Cape May,5,"Asian, non-Hispanic",1,2,**,**,**,0,.,Breast,Male and Female
+Cape May,5,"Black/African American, non-Hispanic",2,32,**,**,**,0.247,0.262,Breast,Male and Female
+Cape May,5,"White, non-Hispanic",3,945,0.62,0.565,0.672,0.054,0.072,Breast,Male and Female
+Cape May,5,"Other, non-Hispanic",4,11,**,**,**,0.375,0.444,Breast,Male and Female
+Cape May,5,Hispanic/Latino,5,33,**,**,**,0.211,0.25,Breast,Male and Female
+,,,,,,,,,,,
+Cumberland,6,"Asian, non-Hispanic",1,10,**,**,**,0.389,0.47,Breast,Male and Female
+Cumberland,6,"Black/African American, non-Hispanic",2,141,0.669,0.551,0.769,0.11,0.17,Breast,Male and Female
+Cumberland,6,"White, non-Hispanic",3,713,0.541,0.483,0.598,0.058,0.064,Breast,Male and Female
+Cumberland,6,"Other, non-Hispanic",4,31,**,**,**,0.179,0.265,Breast,Male and Female
+Cumberland,6,Hispanic/Latino,5,154,0.426,0.334,0.524,0.096,0.115,Breast,Male and Female
+,,,,,,,,,,,
+Essex,7,"Asian, non-Hispanic",1,33,**,**,**,0.223,0.27,Breast,Male and Female
+Essex,7,"Black/African American, non-Hispanic",2,1054,0.538,0.488,0.587,0.05,0.055,Breast,Male and Female
+Essex,7,"White, non-Hispanic",3,697,0.6,0.544,0.654,0.055,0.07,Breast,Male and Female
+Essex,7,"Other, non-Hispanic",4,62,0.586,0.405,0.746,0.178,0.219,Breast,Male and Female
+Essex,7,Hispanic/Latino,5,429,0.425,0.353,0.5,0.074,0.088,Breast,Male and Female
+,,,,,,,,,,,
+Gloucester,8,"Asian, non-Hispanic",1,9,**,**,**,0.362,0.533,Breast,Male and Female
+Gloucester,8,"Black/African American, non-Hispanic",2,85,0.733,0.612,0.828,0.109,0.209,Breast,Male and Female
+Gloucester,8,"White, non-Hispanic",3,882,0.541,0.488,0.593,0.053,0.059,Breast,Male and Female
+Gloucester,8,"Other, non-Hispanic",4,14,**,**,**,0.236,0.545,Breast,Male and Female
+Gloucester,8,Hispanic/Latino,5,34,**,**,**,0.242,0.322,Breast,Male and Female
+,,,,,,,,,,,
+Hudson,9,"Asian, non-Hispanic",1,93,0.289,0.185,0.421,0.119,0.211,Breast,Male and Female
+Hudson,9,"Black/African American, non-Hispanic",2,224,0.527,0.431,0.621,0.096,0.104,Breast,Male and Female
+Hudson,9,"White, non-Hispanic",3,563,0.488,0.425,0.552,0.064,0.067,Breast,Male and Female
+Hudson,9,"Other, non-Hispanic",4,43,**,**,**,0.135,0.384,Breast,Male and Female
+Hudson,9,Hispanic/Latino,5,487,0.568,0.506,0.627,0.061,0.072,Breast,Male and Female
+,,,,,,,,,,,
+Hunterdon,10,"Asian, non-Hispanic",1,19,**,**,**,0.232,0.438,Breast,Male and Female
+Hunterdon,10,"Black/African American, non-Hispanic",2,22,**,**,**,0.451,0.631,Breast,Male and Female
+Hunterdon,10,"White, non-Hispanic",3,939,0.628,0.571,0.681,0.055,0.076,Breast,Male and Female
+Hunterdon,10,"Other, non-Hispanic",4,9,**,**,**,0.444,0.493,Breast,Male and Female
+Hunterdon,10,Hispanic/Latino,5,33,**,**,**,0.234,0.243,Breast,Male and Female
+,,,,,,,,,,,
+Mercer,11,"Asian, non-Hispanic",1,54,0.449,0.29,0.62,0.172,0.195,Breast,Male and Female
+Mercer,11,"Black/African American, non-Hispanic",2,180,0.499,0.399,0.599,0.102,0.104,Breast,Male and Female
+Mercer,11,"White, non-Hispanic",3,675,0.587,0.524,0.648,0.062,0.077,Breast,Male and Female
+Mercer,11,"Other, non-Hispanic",4,22,**,**,**,0.281,0.295,Breast,Male and Female
+Mercer,11,Hispanic/Latino,5,99,0.351,0.248,0.47,0.113,0.164,Breast,Male and Female
+,,,,,,,,,,,
+Middlesex,12,"Asian, non-Hispanic",1,124,0.272,0.192,0.369,0.089,0.167,Breast,Male and Female
+Middlesex,12,"Black/African American, non-Hispanic",2,92,0.492,0.366,0.619,0.129,0.134,Breast,Male and Female
+Middlesex,12,"White, non-Hispanic",3,656,0.614,0.562,0.664,0.051,0.068,Breast,Male and Female
+Middlesex,12,"Other, non-Hispanic",4,17,**,**,**,0.192,0.447,Breast,Male and Female
+Middlesex,12,Hispanic/Latino,5,138,0.413,0.315,0.519,0.103,0.128,Breast,Male and Female
+,,,,,,,,,,,
+Monmouth,13,"Asian, non-Hispanic",1,22,**,**,**,0.231,0.322,Breast,Male and Female
+Monmouth,13,"Black/African American, non-Hispanic",2,52,0.676,0.51,0.807,0.153,0.241,Breast,Male and Female
+Monmouth,13,"White, non-Hispanic",3,826,0.611,0.562,0.657,0.048,0.062,Breast,Male and Female
+Monmouth,13,"Other, non-Hispanic",4,22,**,**,**,0.126,0.58,Breast,Male and Female
+Monmouth,13,Hispanic/Latino,5,70,0.451,0.299,0.612,0.162,0.183,Breast,Male and Female
+,,,,,,,,,,,
+Morris,14,"Asian, non-Hispanic",1,46,**,**,**,0.186,0.194,Breast,Male and Female
+Morris,14,"Black/African American, non-Hispanic",2,30,**,**,**,0.249,0.265,Breast,Male and Female
+Morris,14,"White, non-Hispanic",3,949,0.615,0.566,0.663,0.049,0.065,Breast,Male and Female
+Morris,14,"Other, non-Hispanic",4,13,**,**,**,0.216,0.65,Breast,Male and Female
+Morris,14,Hispanic/Latino,5,88,0.518,0.381,0.653,0.139,0.148,Breast,Male and Female
+,,,,,,,,,,,
+Ocean,15,"Asian, non-Hispanic",1,5,**,**,**,0.402,0.869,Breast,Male and Female
+Ocean,15,"Black/African American, non-Hispanic",2,17,**,**,**,0.365,0.399,Breast,Male and Female
+Ocean,15,"White, non-Hispanic",3,975,0.609,0.566,0.65,0.042,0.055,Breast,Male and Female
+Ocean,15,"Other, non-Hispanic",4,15,**,**,**,0.296,0.362,Breast,Male and Female
+Ocean,15,Hispanic/Latino,5,61,0.42,0.282,0.572,0.149,0.181,Breast,Male and Female
+,,,,,,,,,,,
+Passaic,16,"Asian, non-Hispanic",1,18,**,**,**,0.297,0.346,Breast,Male and Female
+Passaic,16,"Black/African American, non-Hispanic",2,117,0.583,0.447,0.707,0.132,0.162,Breast,Male and Female
+Passaic,16,"White, non-Hispanic",3,527,0.56,0.496,0.622,0.063,0.074,Breast,Male and Female
+Passaic,16,"Other, non-Hispanic",4,13,**,**,**,0.309,0.405,Breast,Male and Female
+Passaic,16,Hispanic/Latino,5,356,0.541,0.469,0.612,0.072,0.081,Breast,Male and Female
+,,,,,,,,,,,
+Salem,17,"Asian, non-Hispanic",1,1,**,**,**,0,.,Breast,Male and Female
+Salem,17,"Black/African American, non-Hispanic",2,145,0.526,0.39,0.658,0.138,0.148,Breast,Male and Female
+Salem,17,"White, non-Hispanic",3,903,0.579,0.527,0.629,0.051,0.062,Breast,Male and Female
+Salem,17,"Other, non-Hispanic",4,20,**,**,**,0.267,0.361,Breast,Male and Female
+Salem,17,Hispanic/Latino,5,43,**,**,**,0.202,0.322,Breast,Male and Female
+,,,,,,,,,,,
+Somerset,18,"Asian, non-Hispanic",1,69,0.436,0.303,0.58,0.142,0.167,Breast,Male and Female
+Somerset,18,"Black/African American, non-Hispanic",2,64,0.579,0.407,0.734,0.17,0.206,Breast,Male and Female
+Somerset,18,"White, non-Hispanic",3,787,0.622,0.561,0.679,0.059,0.08,Breast,Male and Female
+Somerset,18,"Other, non-Hispanic",4,19,**,**,**,0.18,0.501,Breast,Male and Female
+Somerset,18,Hispanic/Latino,5,81,0.398,0.269,0.543,0.141,0.18,Breast,Male and Female
+,,,,,,,,,,,
+Sussex,19,"Asian, non-Hispanic",1,14,**,**,**,0.388,0.411,Breast,Male and Female
+Sussex,19,"Black/African American, non-Hispanic",2,25,**,**,**,0.194,0.413,Breast,Male and Female
+Sussex,19,"White, non-Hispanic",3,901,0.571,0.52,0.621,0.051,0.061,Breast,Male and Female
+Sussex,19,"Other, non-Hispanic",4,10,**,**,**,0.454,0.582,Breast,Male and Female
+Sussex,19,Hispanic/Latino,5,58,0.47,0.308,0.639,0.172,0.186,Breast,Male and Female
+,,,,,,,,,,,
+Union,20,"Asian, non-Hispanic",1,19,**,**,**,0.268,0.281,Breast,Male and Female
+Union,20,"Black/African American, non-Hispanic",2,246,0.589,0.506,0.668,0.081,0.101,Breast,Male and Female
+Union,20,"White, non-Hispanic",3,611,0.645,0.586,0.699,0.056,0.081,Breast,Male and Female
+Union,20,"Other, non-Hispanic",4,32,**,**,**,0.187,0.341,Breast,Male and Female
+Union,20,Hispanic/Latino,5,242,0.422,0.339,0.51,0.086,0.104,Breast,Male and Female
+,,,,,,,,,,,
+Warren,21,"Asian, non-Hispanic",1,7,**,**,**,0.432,0.444,Breast,Male and Female
+Warren,21,"Black/African American, non-Hispanic",2,29,**,**,**,0.369,0.532,Breast,Male and Female
+Warren,21,"White, non-Hispanic",3,993,0.556,0.506,0.604,0.049,0.056,Breast,Male and Female
+Warren,21,"Other, non-Hispanic",4,12,**,**,**,0.335,0.356,Breast,Male and Female
+Warren,21,Hispanic/Latino,5,38,**,**,**,0.27,0.338,Breast,Male and Female
+Total,.,All Races,,24307,0.551,0.54,0.561,0.01,0.012,Breast,Male and Female
+Atlantic,1,All Races,,1015,0.568,0.525,0.609,0.042,0.05,Breast,Male and Female
+Bergen,2,All Races,,1034,0.573,0.529,0.615,0.043,0.052,Breast,Male and Female
+Burlington,3,All Races,,1158,0.575,0.532,0.616,0.042,0.05,Breast,Male and Female
+Camden,4,All Races,,1247,0.539,0.499,0.578,0.039,0.043,Breast,Male and Female
+Cape May,5,All Races,,1038,0.594,0.54,0.645,0.053,0.066,Breast,Male and Female
+Cumberland,6,All Races,,1076,0.527,0.483,0.571,0.044,0.047,Breast,Male and Female
+Essex,7,All Races,,2338,0.534,0.501,0.567,0.033,0.036,Breast,Male and Female
+Gloucester,8,All Races,,1045,0.566,0.518,0.614,0.048,0.057,Breast,Male and Female
+Hudson,9,All Races,,1456,0.488,0.45,0.526,0.038,0.04,Breast,Male and Female
+Hunterdon,10,All Races,,1040,0.598,0.542,0.652,0.055,0.07,Breast,Male and Female
+Mercer,11,All Races,,1053,0.522,0.476,0.567,0.046,0.049,Breast,Male and Female
+Middlesex,12,All Races,,1048,0.481,0.44,0.522,0.041,0.044,Breast,Male and Female
+Monmouth,13,All Races,,1008,0.599,0.554,0.642,0.044,0.056,Breast,Male and Female
+Morris,14,All Races,,1152,0.582,0.538,0.626,0.044,0.054,Breast,Male and Female
+Ocean,15,All Races,,1090,0.591,0.55,0.63,0.04,0.05,Breast,Male and Female
+Passaic,16,All Races,,1055,0.556,0.511,0.6,0.044,0.051,Breast,Male and Female
+Salem,17,All Races,,1125,0.542,0.491,0.591,0.05,0.056,Breast,Male and Female
+Somerset,18,All Races,,1044,0.562,0.513,0.611,0.049,0.057,Breast,Male and Female
+Sussex,19,All Races,,1020,0.555,0.507,0.602,0.047,0.054,Breast,Male and Female
+Union,20,All Races,,1175,0.563,0.521,0.604,0.041,0.048,Breast,Male and Female
+Warren,21,All Races,,1090,0.538,0.485,0.59,0.053,0.058,Breast,Male and Female
+,,,,,,,,,,,
+Atlantic,1,"Asian, non-Hispanic",1,17,**,**,**,0.268,0.335,Breast,Female
+Atlantic,1,"Black/African American, non-Hispanic",2,132,0.621,0.495,0.732,0.121,0.162,Breast,Female
+Atlantic,1,"White, non-Hispanic",3,699,0.584,0.533,0.634,0.051,0.062,Breast,Female
+Atlantic,1,"Other, non-Hispanic",4,33,**,**,**,0.208,0.215,Breast,Female
+Atlantic,1,Hispanic/Latino,5,115,0.514,0.398,0.629,0.118,0.124,Breast,Female
+,,,,,,,,,,,
+Bergen,2,"Asian, non-Hispanic",1,49,**,**,**,0.175,0.181,Breast,Female
+Bergen,2,"Black/African American, non-Hispanic",2,82,0.489,0.348,0.632,0.145,0.152,Breast,Female
+Bergen,2,"White, non-Hispanic",3,678,0.603,0.549,0.655,0.053,0.068,Breast,Female
+Bergen,2,"Other, non-Hispanic",4,27,**,**,**,0.264,0.303,Breast,Female
+Bergen,2,Hispanic/Latino,5,170,0.569,0.464,0.668,0.103,0.122,Breast,Female
+,,,,,,,,,,,
+Burlington,3,"Asian, non-Hispanic",1,18,**,**,**,0.289,0.299,Breast,Female
+Burlington,3,"Black/African American, non-Hispanic",2,181,0.555,0.447,0.658,0.107,0.123,Breast,Female
+Burlington,3,"White, non-Hispanic",3,862,0.578,0.53,0.624,0.047,0.057,Breast,Female
+Burlington,3,"Other, non-Hispanic",4,28,**,**,**,0.251,0.286,Breast,Female
+Burlington,3,Hispanic/Latino,5,55,0.611,0.443,0.756,0.161,0.212,Breast,Female
+,,,,,,,,,,,
+Camden,4,"Asian, non-Hispanic",1,15,**,**,**,0.296,0.4,Breast,Female
+Camden,4,"Black/African American, non-Hispanic",2,210,0.541,0.446,0.633,0.095,0.105,Breast,Female
+Camden,4,"White, non-Hispanic",3,857,0.565,0.518,0.611,0.047,0.055,Breast,Female
+Camden,4,"Other, non-Hispanic",4,27,**,**,**,0.262,0.273,Breast,Female
+Camden,4,Hispanic/Latino,5,110,0.461,0.341,0.585,0.125,0.138,Breast,Female
+,,,,,,,,,,,
+Cape May,5,"Asian, non-Hispanic",1,2,**,**,**,0,.,Breast,Female
+Cape May,5,"Black/African American, non-Hispanic",2,32,**,**,**,0.247,0.262,Breast,Female
+Cape May,5,"White, non-Hispanic",3,945,0.62,0.565,0.672,0.054,0.072,Breast,Female
+Cape May,5,"Other, non-Hispanic",4,11,**,**,**,0.375,0.444,Breast,Female
+Cape May,5,Hispanic/Latino,5,33,**,**,**,0.211,0.25,Breast,Female
+,,,,,,,,,,,
+Cumberland,6,"Asian, non-Hispanic",1,10,**,**,**,0.389,0.47,Breast,Female
+Cumberland,6,"Black/African American, non-Hispanic",2,141,0.669,0.551,0.769,0.11,0.17,Breast,Female
+Cumberland,6,"White, non-Hispanic",3,713,0.541,0.483,0.598,0.058,0.064,Breast,Female
+Cumberland,6,"Other, non-Hispanic",4,31,**,**,**,0.179,0.265,Breast,Female
+Cumberland,6,Hispanic/Latino,5,154,0.426,0.334,0.524,0.096,0.115,Breast,Female
+,,,,,,,,,,,
+Essex,7,"Asian, non-Hispanic",1,33,**,**,**,0.223,0.27,Breast,Female
+Essex,7,"Black/African American, non-Hispanic",2,1054,0.538,0.488,0.587,0.05,0.055,Breast,Female
+Essex,7,"White, non-Hispanic",3,697,0.6,0.544,0.654,0.055,0.07,Breast,Female
+Essex,7,"Other, non-Hispanic",4,62,0.586,0.405,0.746,0.178,0.219,Breast,Female
+Essex,7,Hispanic/Latino,5,429,0.425,0.353,0.5,0.074,0.088,Breast,Female
+,,,,,,,,,,,
+Gloucester,8,"Asian, non-Hispanic",1,9,**,**,**,0.362,0.533,Breast,Female
+Gloucester,8,"Black/African American, non-Hispanic",2,85,0.733,0.612,0.828,0.109,0.209,Breast,Female
+Gloucester,8,"White, non-Hispanic",3,882,0.541,0.488,0.593,0.053,0.059,Breast,Female
+Gloucester,8,"Other, non-Hispanic",4,14,**,**,**,0.236,0.545,Breast,Female
+Gloucester,8,Hispanic/Latino,5,34,**,**,**,0.242,0.322,Breast,Female
+,,,,,,,,,,,
+Hudson,9,"Asian, non-Hispanic",1,93,0.289,0.185,0.421,0.119,0.211,Breast,Female
+Hudson,9,"Black/African American, non-Hispanic",2,224,0.527,0.431,0.621,0.096,0.104,Breast,Female
+Hudson,9,"White, non-Hispanic",3,563,0.488,0.425,0.552,0.064,0.067,Breast,Female
+Hudson,9,"Other, non-Hispanic",4,43,**,**,**,0.135,0.384,Breast,Female
+Hudson,9,Hispanic/Latino,5,487,0.568,0.506,0.627,0.061,0.072,Breast,Female
+,,,,,,,,,,,
+Hunterdon,10,"Asian, non-Hispanic",1,19,**,**,**,0.232,0.438,Breast,Female
+Hunterdon,10,"Black/African American, non-Hispanic",2,22,**,**,**,0.451,0.631,Breast,Female
+Hunterdon,10,"White, non-Hispanic",3,939,0.628,0.571,0.681,0.055,0.076,Breast,Female
+Hunterdon,10,"Other, non-Hispanic",4,9,**,**,**,0.444,0.493,Breast,Female
+Hunterdon,10,Hispanic/Latino,5,33,**,**,**,0.234,0.243,Breast,Female
+,,,,,,,,,,,
+Mercer,11,"Asian, non-Hispanic",1,54,0.449,0.29,0.62,0.172,0.195,Breast,Female
+Mercer,11,"Black/African American, non-Hispanic",2,180,0.499,0.399,0.599,0.102,0.104,Breast,Female
+Mercer,11,"White, non-Hispanic",3,675,0.587,0.524,0.648,0.062,0.077,Breast,Female
+Mercer,11,"Other, non-Hispanic",4,22,**,**,**,0.281,0.295,Breast,Female
+Mercer,11,Hispanic/Latino,5,99,0.351,0.248,0.47,0.113,0.164,Breast,Female
+,,,,,,,,,,,
+Middlesex,12,"Asian, non-Hispanic",1,124,0.272,0.192,0.369,0.089,0.167,Breast,Female
+Middlesex,12,"Black/African American, non-Hispanic",2,92,0.492,0.366,0.619,0.129,0.134,Breast,Female
+Middlesex,12,"White, non-Hispanic",3,656,0.614,0.562,0.664,0.051,0.068,Breast,Female
+Middlesex,12,"Other, non-Hispanic",4,17,**,**,**,0.192,0.447,Breast,Female
+Middlesex,12,Hispanic/Latino,5,138,0.413,0.315,0.519,0.103,0.128,Breast,Female
+,,,,,,,,,,,
+Monmouth,13,"Asian, non-Hispanic",1,22,**,**,**,0.231,0.322,Breast,Female
+Monmouth,13,"Black/African American, non-Hispanic",2,52,0.676,0.51,0.807,0.153,0.241,Breast,Female
+Monmouth,13,"White, non-Hispanic",3,826,0.611,0.562,0.657,0.048,0.062,Breast,Female
+Monmouth,13,"Other, non-Hispanic",4,22,**,**,**,0.126,0.58,Breast,Female
+Monmouth,13,Hispanic/Latino,5,70,0.451,0.299,0.612,0.162,0.183,Breast,Female
+,,,,,,,,,,,
+Morris,14,"Asian, non-Hispanic",1,46,**,**,**,0.186,0.194,Breast,Female
+Morris,14,"Black/African American, non-Hispanic",2,30,**,**,**,0.249,0.265,Breast,Female
+Morris,14,"White, non-Hispanic",3,949,0.615,0.566,0.663,0.049,0.065,Breast,Female
+Morris,14,"Other, non-Hispanic",4,13,**,**,**,0.216,0.65,Breast,Female
+Morris,14,Hispanic/Latino,5,88,0.518,0.381,0.653,0.139,0.148,Breast,Female
+,,,,,,,,,,,
+Ocean,15,"Asian, non-Hispanic",1,5,**,**,**,0.402,0.869,Breast,Female
+Ocean,15,"Black/African American, non-Hispanic",2,17,**,**,**,0.365,0.399,Breast,Female
+Ocean,15,"White, non-Hispanic",3,975,0.609,0.566,0.65,0.042,0.055,Breast,Female
+Ocean,15,"Other, non-Hispanic",4,15,**,**,**,0.296,0.362,Breast,Female
+Ocean,15,Hispanic/Latino,5,61,0.42,0.282,0.572,0.149,0.181,Breast,Female
+,,,,,,,,,,,
+Passaic,16,"Asian, non-Hispanic",1,18,**,**,**,0.297,0.346,Breast,Female
+Passaic,16,"Black/African American, non-Hispanic",2,117,0.583,0.447,0.707,0.132,0.162,Breast,Female
+Passaic,16,"White, non-Hispanic",3,527,0.56,0.496,0.622,0.063,0.074,Breast,Female
+Passaic,16,"Other, non-Hispanic",4,13,**,**,**,0.309,0.405,Breast,Female
+Passaic,16,Hispanic/Latino,5,356,0.541,0.469,0.612,0.072,0.081,Breast,Female
+,,,,,,,,,,,
+Salem,17,"Asian, non-Hispanic",1,1,**,**,**,0,.,Breast,Female
+Salem,17,"Black/African American, non-Hispanic",2,145,0.526,0.39,0.658,0.138,0.148,Breast,Female
+Salem,17,"White, non-Hispanic",3,903,0.579,0.527,0.629,0.051,0.062,Breast,Female
+Salem,17,"Other, non-Hispanic",4,20,**,**,**,0.267,0.361,Breast,Female
+Salem,17,Hispanic/Latino,5,43,**,**,**,0.202,0.322,Breast,Female
+,,,,,,,,,,,
+Somerset,18,"Asian, non-Hispanic",1,69,0.436,0.303,0.58,0.142,0.167,Breast,Female
+Somerset,18,"Black/African American, non-Hispanic",2,64,0.579,0.407,0.734,0.17,0.206,Breast,Female
+Somerset,18,"White, non-Hispanic",3,787,0.622,0.561,0.679,0.059,0.08,Breast,Female
+Somerset,18,"Other, non-Hispanic",4,19,**,**,**,0.18,0.501,Breast,Female
+Somerset,18,Hispanic/Latino,5,81,0.398,0.269,0.543,0.141,0.18,Breast,Female
+,,,,,,,,,,,
+Sussex,19,"Asian, non-Hispanic",1,14,**,**,**,0.388,0.411,Breast,Female
+Sussex,19,"Black/African American, non-Hispanic",2,25,**,**,**,0.194,0.413,Breast,Female
+Sussex,19,"White, non-Hispanic",3,901,0.571,0.52,0.621,0.051,0.061,Breast,Female
+Sussex,19,"Other, non-Hispanic",4,10,**,**,**,0.454,0.582,Breast,Female
+Sussex,19,Hispanic/Latino,5,58,0.47,0.308,0.639,0.172,0.186,Breast,Female
+,,,,,,,,,,,
+Union,20,"Asian, non-Hispanic",1,19,**,**,**,0.268,0.281,Breast,Female
+Union,20,"Black/African American, non-Hispanic",2,246,0.589,0.506,0.668,0.081,0.101,Breast,Female
+Union,20,"White, non-Hispanic",3,611,0.645,0.586,0.699,0.056,0.081,Breast,Female
+Union,20,"Other, non-Hispanic",4,32,**,**,**,0.187,0.341,Breast,Female
+Union,20,Hispanic/Latino,5,242,0.422,0.339,0.51,0.086,0.104,Breast,Female
+,,,,,,,,,,,
+Warren,21,"Asian, non-Hispanic",1,7,**,**,**,0.432,0.444,Breast,Female
+Warren,21,"Black/African American, non-Hispanic",2,29,**,**,**,0.369,0.532,Breast,Female
+Warren,21,"White, non-Hispanic",3,993,0.556,0.506,0.604,0.049,0.056,Breast,Female
+Warren,21,"Other, non-Hispanic",4,12,**,**,**,0.335,0.356,Breast,Female
+Warren,21,Hispanic/Latino,5,38,**,**,**,0.27,0.338,Breast,Female
+Total,.,All Races,,24307,0.551,0.54,0.561,0.01,0.012,Breast,Female
+Atlantic,1,All Races,,1015,0.568,0.525,0.609,0.042,0.05,Breast,Female
+Bergen,2,All Races,,1034,0.573,0.529,0.615,0.043,0.052,Breast,Female
+Burlington,3,All Races,,1158,0.575,0.532,0.616,0.042,0.05,Breast,Female
+Camden,4,All Races,,1247,0.539,0.499,0.578,0.039,0.043,Breast,Female
+Cape May,5,All Races,,1038,0.594,0.54,0.645,0.053,0.066,Breast,Female
+Cumberland,6,All Races,,1076,0.527,0.483,0.571,0.044,0.047,Breast,Female
+Essex,7,All Races,,2338,0.534,0.501,0.567,0.033,0.036,Breast,Female
+Gloucester,8,All Races,,1045,0.566,0.518,0.614,0.048,0.057,Breast,Female
+Hudson,9,All Races,,1456,0.488,0.45,0.526,0.038,0.04,Breast,Female
+Hunterdon,10,All Races,,1040,0.598,0.542,0.652,0.055,0.07,Breast,Female
+Mercer,11,All Races,,1053,0.522,0.476,0.567,0.046,0.049,Breast,Female
+Middlesex,12,All Races,,1048,0.481,0.44,0.522,0.041,0.044,Breast,Female
+Monmouth,13,All Races,,1008,0.599,0.554,0.642,0.044,0.056,Breast,Female
+Morris,14,All Races,,1152,0.582,0.538,0.626,0.044,0.054,Breast,Female
+Ocean,15,All Races,,1090,0.591,0.55,0.63,0.04,0.05,Breast,Female
+Passaic,16,All Races,,1055,0.556,0.511,0.6,0.044,0.051,Breast,Female
+Salem,17,All Races,,1125,0.542,0.491,0.591,0.05,0.056,Breast,Female
+Somerset,18,All Races,,1044,0.562,0.513,0.611,0.049,0.057,Breast,Female
+Sussex,19,All Races,,1020,0.555,0.507,0.602,0.047,0.054,Breast,Female
+Union,20,All Races,,1175,0.563,0.521,0.604,0.041,0.048,Breast,Female
+Warren,21,All Races,,1090,0.538,0.485,0.59,0.053,0.058,Breast,Female
+Atlantic,1,"Asian, non-Hispanic",1,13,**,**,**,0.772,0.659,Colorectal,Male and Female
+Atlantic,1,"Black/African American, non-Hispanic",2,103,0.686,0.785,0.567,0.89,0.821,Colorectal,Male and Female
+Atlantic,1,"White, non-Hispanic",3,744,0.687,0.726,0.645,0.96,0.934,Colorectal,Male and Female
+Atlantic,1,"Other, non-Hispanic",4,18,**,**,**,0.761,0.703,Colorectal,Male and Female
+Atlantic,1,Hispanic/Latino,5,75,0.486,0.629,0.344,0.853,0.846,Colorectal,Male and Female
+Bergen,2,"Asian, non-Hispanic",1,41,**,**,**,0.815,0.722,Colorectal,Male and Female
+Bergen,2,"Black/African American, non-Hispanic",2,44,**,**,**,0.84,0.652,Colorectal,Male and Female
+Bergen,2,"White, non-Hispanic",3,619,0.696,0.741,0.647,0.953,0.921,Colorectal,Male and Female
+Bergen,2,"Other, non-Hispanic",4,18,**,**,**,0.814,0.752,Colorectal,Male and Female
+Bergen,2,Hispanic/Latino,5,109,0.555,0.679,0.425,0.87,0.851,Colorectal,Male and Female
+Burlington,3,"Asian, non-Hispanic",1,16,**,**,**,0.749,0.678,Colorectal,Male and Female
+Burlington,3,"Black/African American, non-Hispanic",2,134,0.829,0.895,0.735,0.921,0.762,Colorectal,Male and Female
+Burlington,3,"White, non-Hispanic",3,817,0.694,0.733,0.653,0.96,0.933,Colorectal,Male and Female
+Burlington,3,"Other, non-Hispanic",4,19,**,**,**,0.766,0.596,Colorectal,Male and Female
+Burlington,3,Hispanic/Latino,5,24,**,**,**,0.825,0.789,Colorectal,Male and Female
+Camden,4,"Asian, non-Hispanic",1,10,**,**,**,0.712,0.597,Colorectal,Male and Female
+Camden,4,"Black/African American, non-Hispanic",2,157,0.649,0.751,0.533,0.889,0.839,Colorectal,Male and Female
+Camden,4,"White, non-Hispanic",3,823,0.714,0.753,0.673,0.96,0.928,Colorectal,Male and Female
+Camden,4,"Other, non-Hispanic",4,17,**,**,**,0.743,0.601,Colorectal,Male and Female
+Camden,4,Hispanic/Latino,5,54,0.59,0.75,0.409,0.822,0.779,Colorectal,Male and Female
+Cape May,5,"Asian, non-Hispanic",1,2,**,**,**,1,**,Colorectal,Male and Female
+Cape May,5,"Black/African American, non-Hispanic",2,34,**,**,**,0.801,0.716,Colorectal,Male and Female
+Cape May,5,"White, non-Hispanic",3,943,0.649,0.694,0.602,0.954,0.933,Colorectal,Male and Female
+Cape May,5,"Other, non-Hispanic",4,13,**,**,**,0.786,0.495,Colorectal,Male and Female
+Cape May,5,Hispanic/Latino,5,11,**,**,**,0.594,0.508,Colorectal,Male and Female
+Cumberland,6,"Asian, non-Hispanic",1,11,**,**,**,0.862,0.294,Colorectal,Male and Female
+Cumberland,6,"Black/African American, non-Hispanic",2,105,0.675,0.786,0.54,0.875,0.804,Colorectal,Male and Female
+Cumberland,6,"White, non-Hispanic",3,679,0.614,0.664,0.561,0.948,0.932,Colorectal,Male and Female
+Cumberland,6,"Other, non-Hispanic",4,28,**,**,**,0.781,0.76,Colorectal,Male and Female
+Cumberland,6,Hispanic/Latino,5,86,0.587,0.702,0.461,0.877,0.848,Colorectal,Male and Female
+Essex,7,"Asian, non-Hispanic",1,30,**,**,**,0.793,0.63,Colorectal,Male and Female
+Essex,7,"Black/African American, non-Hispanic",2,739,0.641,0.693,0.586,0.946,0.924,Colorectal,Male and Female
+Essex,7,"White, non-Hispanic",3,738,0.707,0.751,0.659,0.954,0.92,Colorectal,Male and Female
+Essex,7,"Other, non-Hispanic",4,49,**,**,**,0.844,0.746,Colorectal,Male and Female
+Essex,7,Hispanic/Latino,5,228,0.588,0.682,0.487,0.901,0.878,Colorectal,Male and Female
+Gloucester,8,"Asian, non-Hispanic",1,6,**,**,**,0.661,0.448,Colorectal,Male and Female
+Gloucester,8,"Black/African American, non-Hispanic",2,60,0.758,0.866,0.604,0.868,0.72,Colorectal,Male and Female
+Gloucester,8,"White, non-Hispanic",3,862,0.66,0.7,0.616,0.958,0.937,Colorectal,Male and Female
+Gloucester,8,"Other, non-Hispanic",4,12,**,**,**,0.728,0.46,Colorectal,Male and Female
+Gloucester,8,Hispanic/Latino,5,21,**,**,**,0.703,0.569,Colorectal,Male and Female
+Hudson,9,"Asian, non-Hispanic",1,37,**,**,**,0.804,0.787,Colorectal,Male and Female
+Hudson,9,"Black/African American, non-Hispanic",2,158,0.606,0.705,0.497,0.895,0.864,Colorectal,Male and Female
+Hudson,9,"White, non-Hispanic",3,487,0.656,0.71,0.597,0.943,0.916,Colorectal,Male and Female
+Hudson,9,"Other, non-Hispanic",4,27,**,**,**,0.794,0.582,Colorectal,Male and Female
+Hudson,9,Hispanic/Latino,5,305,0.645,0.718,0.565,0.923,0.89,Colorectal,Male and Female
+Hunterdon,10,"Asian, non-Hispanic",1,12,**,**,**,0.842,0.407,Colorectal,Male and Female
+Hunterdon,10,"Black/African American, non-Hispanic",2,18,**,**,**,0.783,0.47,Colorectal,Male and Female
+Hunterdon,10,"White, non-Hispanic",3,1031,0.69,0.73,0.646,0.958,0.931,Colorectal,Male and Female
+Hunterdon,10,"Other, non-Hispanic",4,4,**,**,**,0.871,-0.118,Colorectal,Male and Female
+Hunterdon,10,Hispanic/Latino,5,26,**,**,**,0.914,0.4,Colorectal,Male and Female
+Mercer,11,"Asian, non-Hispanic",1,35,**,**,**,0.808,0.76,Colorectal,Male and Female
+Mercer,11,"Black/African American, non-Hispanic",2,134,0.723,0.808,0.617,0.904,0.822,Colorectal,Male and Female
+Mercer,11,"White, non-Hispanic",3,721,0.72,0.761,0.675,0.957,0.921,Colorectal,Male and Female
+Mercer,11,"Other, non-Hispanic",4,11,**,**,**,0.759,0.485,Colorectal,Male and Female
+Mercer,11,Hispanic/Latino,5,37,**,**,**,0.808,0.796,Colorectal,Male and Female
+Middlesex,12,"Asian, non-Hispanic",1,63,**,**,**,0.848,0.814,Colorectal,Male and Female
+Middlesex,12,"Black/African American, non-Hispanic",2,70,0.781,0.883,0.627,0.871,0.7,Colorectal,Male and Female
+Middlesex,12,"White, non-Hispanic",3,637,0.646,0.692,0.597,0.952,0.931,Colorectal,Male and Female
+Middlesex,12,"Other, non-Hispanic",4,12,**,**,**,0.712,0.544,Colorectal,Male and Female
+Middlesex,12,Hispanic/Latino,5,73,0.578,0.708,0.437,0.861,0.832,Colorectal,Male and Female
+Monmouth,13,"Asian, non-Hispanic",1,25,**,**,**,0.763,0.686,Colorectal,Male and Female
+Monmouth,13,"Black/African American, non-Hispanic",2,46,**,**,**,0.822,0.789,Colorectal,Male and Female
+Monmouth,13,"White, non-Hispanic",3,826,0.686,0.725,0.643,0.959,0.933,Colorectal,Male and Female
+Monmouth,13,"Other, non-Hispanic",4,15,**,**,**,0.708,0.601,Colorectal,Male and Female
+Monmouth,13,Hispanic/Latino,5,46,**,**,**,0.86,0.723,Colorectal,Male and Female
+Morris,14,"Asian, non-Hispanic",1,28,**,**,**,0.806,0.671,Colorectal,Male and Female
+Morris,14,"Black/African American, non-Hispanic",2,21,**,**,**,0.718,0.676,Colorectal,Male and Female
+Morris,14,"White, non-Hispanic",3,950,0.703,0.743,0.66,0.958,0.928,Colorectal,Male and Female
+Morris,14,"Other, non-Hispanic",4,8,**,**,**,0.758,0.227,Colorectal,Male and Female
+Morris,14,Hispanic/Latino,5,59,0.742,0.837,0.617,0.889,0.78,Colorectal,Male and Female
+Ocean,15,"Asian, non-Hispanic",1,5,**,**,**,1,**,Colorectal,Male and Female
+Ocean,15,"Black/African American, non-Hispanic",2,21,**,**,**,0.762,0.548,Colorectal,Male and Female
+Ocean,15,"White, non-Hispanic",3,885,0.667,0.705,0.626,0.96,0.939,Colorectal,Male and Female
+Ocean,15,"Other, non-Hispanic",4,8,**,**,**,1,**,Colorectal,Male and Female
+Ocean,15,Hispanic/Latino,5,24,**,**,**,0.803,0.749,Colorectal,Male and Female
+Passaic,16,"Asian, non-Hispanic",1,17,**,**,**,0.761,0.722,Colorectal,Male and Female
+Passaic,16,"Black/African American, non-Hispanic",2,80,0.562,0.688,0.427,0.866,0.844,Colorectal,Male and Female
+Passaic,16,"White, non-Hispanic",3,526,0.63,0.686,0.57,0.942,0.92,Colorectal,Male and Female
+Passaic,16,"Other, non-Hispanic",4,10,**,**,**,0.67,0.635,Colorectal,Male and Female
+Passaic,16,Hispanic/Latino,5,199,0.574,0.663,0.481,0.908,0.89,Colorectal,Male and Female
+Salem,17,"Asian, non-Hispanic",1,2,**,**,**,1,**,Colorectal,Male and Female
+Salem,17,"Black/African American, non-Hispanic",2,114,0.764,0.846,0.657,0.905,0.795,Colorectal,Male and Female
+Salem,17,"White, non-Hispanic",3,861,0.617,0.659,0.573,0.957,0.943,Colorectal,Male and Female
+Salem,17,"Other, non-Hispanic",4,20,**,**,**,0.71,0.688,Colorectal,Male and Female
+Salem,17,Hispanic/Latino,5,22,**,**,**,0.795,0.472,Colorectal,Male and Female
+Somerset,18,"Asian, non-Hispanic",1,47,**,**,**,0.834,0.772,Colorectal,Male and Female
+Somerset,18,"Black/African American, non-Hispanic",2,44,**,**,**,0.819,0.755,Colorectal,Male and Female
+Somerset,18,"White, non-Hispanic",3,779,0.723,0.761,0.682,0.96,0.927,Colorectal,Male and Female
+Somerset,18,"Other, non-Hispanic",4,21,**,**,**,0.757,0.664,Colorectal,Male and Female
+Somerset,18,Hispanic/Latino,5,43,**,**,**,0.813,0.798,Colorectal,Male and Female
+Sussex,19,"Asian, non-Hispanic",1,8,**,**,**,0.699,0.501,Colorectal,Male and Female
+Sussex,19,"Black/African American, non-Hispanic",2,17,**,**,**,0.817,0.379,Colorectal,Male and Female
+Sussex,19,"White, non-Hispanic",3,962,0.666,0.705,0.625,0.96,0.938,Colorectal,Male and Female
+Sussex,19,"Other, non-Hispanic",4,14,**,**,**,0.663,0.485,Colorectal,Male and Female
+Sussex,19,Hispanic/Latino,5,33,**,**,**,0.802,0.665,Colorectal,Male and Female
+Union,20,"Asian, non-Hispanic",1,22,**,**,**,0.763,0.72,Colorectal,Male and Female
+Union,20,"Black/African American, non-Hispanic",2,163,0.623,0.712,0.526,0.906,0.872,Colorectal,Male and Female
+Union,20,"White, non-Hispanic",3,550,0.677,0.725,0.626,0.95,0.921,Colorectal,Male and Female
+Union,20,"Other, non-Hispanic",4,23,**,**,**,0.785,0.676,Colorectal,Male and Female
+Union,20,Hispanic/Latino,5,159,0.537,0.65,0.42,0.883,0.871,Colorectal,Male and Female
+Warren,21,"Asian, non-Hispanic",1,4,**,**,**,0.601,0.483,Colorectal,Male and Female
+Warren,21,"Black/African American, non-Hispanic",2,23,**,**,**,0.762,0.49,Colorectal,Male and Female
+Warren,21,"White, non-Hispanic",3,1002,0.626,0.665,0.585,0.96,0.946,Colorectal,Male and Female
+Warren,21,"Other, non-Hispanic",4,14,**,**,**,0.728,0.683,Colorectal,Male and Female
+Warren,21,Hispanic/Latino,5,29,**,**,**,0.763,0.632,Colorectal,Male and Female
+Total,.,All Races,,21563,0.661,0.672,0.651,0.99,0.984,Colorectal,Male and Female
+Atlantic,1,All Races,,974,0.659,0.695,0.62,0.962,0.944,Colorectal,Male and Female
+Bergen,2,All Races,,856,0.66,0.705,0.611,0.953,0.93,Colorectal,Male and Female
+Burlington,3,All Races,,1020,0.705,0.739,0.668,0.964,0.938,Colorectal,Male and Female
+Camden,4,All Races,,1079,0.689,0.727,0.648,0.96,0.935,Colorectal,Male and Female
+Cape May,5,All Races,,1019,0.647,0.691,0.601,0.955,0.935,Colorectal,Male and Female
+Cumberland,6,All Races,,925,0.618,0.661,0.573,0.956,0.941,Colorectal,Male and Female
+Essex,7,All Races,,1817,0.669,0.701,0.635,0.967,0.949,Colorectal,Male and Female
+Gloucester,8,All Races,,978,0.672,0.71,0.631,0.96,0.938,Colorectal,Male and Female
+Hudson,9,All Races,,1044,0.628,0.671,0.583,0.956,0.94,Colorectal,Male and Female
+Hunterdon,10,All Races,,1118,0.707,0.744,0.667,0.961,0.932,Colorectal,Male and Female
+Mercer,11,All Races,,955,0.697,0.735,0.656,0.96,0.933,Colorectal,Male and Female
+Middlesex,12,All Races,,867,0.622,0.665,0.577,0.956,0.941,Colorectal,Male and Female
+Monmouth,13,All Races,,978,0.679,0.716,0.64,0.962,0.939,Colorectal,Male and Female
+Morris,14,All Races,,1085,0.703,0.74,0.662,0.961,0.933,Colorectal,Male and Female
+Ocean,15,All Races,,956,0.666,0.704,0.627,0.962,0.941,Colorectal,Male and Female
+Passaic,16,All Races,,844,0.611,0.655,0.566,0.955,0.941,Colorectal,Male and Female
+Salem,17,All Races,,1030,0.637,0.676,0.596,0.96,0.944,Colorectal,Male and Female
+Somerset,18,All Races,,953,0.674,0.717,0.627,0.955,0.93,Colorectal,Male and Female
+Sussex,19,All Races,,1046,0.669,0.707,0.629,0.961,0.94,Colorectal,Male and Female
+Union,20,All Races,,934,0.627,0.669,0.583,0.957,0.941,Colorectal,Male and Female
+Warren,21,All Races,,1085,0.625,0.663,0.586,0.961,0.947,Colorectal,Male and Female
+Atlantic,1,All Races,,446,0.639,0.692,0.582,0.944,0.922,Colorectal,Male
+Atlantic,1,All Races,,528,0.676,0.724,0.623,0.949,0.920,Colorectal,Female
+Bergen,2,All Races,,366,0.648,0.718,0.570,0.926,0.892,Colorectal,Male
+Bergen,2,All Races,,490,0.669,0.726,0.607,0.941,0.908,Colorectal,Female
+Burlington,3,All Races,,419,0.672,0.726,0.614,0.944,0.913,Colorectal,Male
+Burlington,3,All Races,,601,0.738,0.779,0.693,0.957,0.916,Colorectal,Female
+Camden,4,All Races,,449,0.699,0.754,0.638,0.942,0.901,Colorectal,Male
+Camden,4,All Races,,630,0.681,0.732,0.624,0.946,0.914,Colorectal,Female
+Cape May,5,All Races,,401,0.620,0.681,0.555,0.937,0.915,Colorectal,Male
+Cape May,5,All Races,,618,0.677,0.737,0.610,0.936,0.899,Colorectal,Female
+Cumberland,6,All Races,,373,0.572,0.638,0.504,0.933,0.920,Colorectal,Male
+Cumberland,6,All Races,,552,0.666,0.716,0.610,0.947,0.919,Colorectal,Female
+Essex,7,All Races,,675,0.625,0.676,0.572,0.948,0.929,Colorectal,Male
+Essex,7,All Races,,"1,142",0.708,0.746,0.667,0.961,0.931,Colorectal,Female
+Gloucester,8,All Races,,413,0.666,0.720,0.608,0.944,0.914,Colorectal,Male
+Gloucester,8,All Races,,565,0.681,0.733,0.624,0.945,0.912,Colorectal,Female
+Hudson,9,All Races,,386,0.596,0.666,0.522,0.928,0.909,Colorectal,Male
+Hudson,9,All Races,,658,0.653,0.705,0.596,0.945,0.920,Colorectal,Female
+Hunterdon,10,All Races,,514,0.718,0.770,0.660,0.945,0.900,Colorectal,Male
+Hunterdon,10,All Races,,604,0.694,0.743,0.639,0.948,0.913,Colorectal,Female
+Mercer,11,All Races,,401,0.711,0.767,0.648,0.941,0.895,Colorectal,Male
+Mercer,11,All Races,,554,0.683,0.734,0.628,0.946,0.914,Colorectal,Female
+Middlesex,12,All Races,,382,0.612,0.676,0.543,0.933,0.912,Colorectal,Male
+Middlesex,12,All Races,,485,0.630,0.687,0.570,0.941,0.919,Colorectal,Female
+Monmouth,13,All Races,,434,0.692,0.745,0.633,0.944,0.907,Colorectal,Male
+Monmouth,13,All Races,,544,0.668,0.718,0.615,0.948,0.920,Colorectal,Female
+Morris,14,All Races,,469,0.711,0.765,0.651,0.943,0.899,Colorectal,Male
+Morris,14,All Races,,616,0.690,0.741,0.635,0.947,0.913,Colorectal,Female
+Ocean,15,All Races,,386,0.666,0.723,0.604,0.940,0.908,Colorectal,Male
+Ocean,15,All Races,,570,0.665,0.714,0.614,0.950,0.924,Colorectal,Female
+Passaic,16,All Races,,366,0.620,0.682,0.553,0.935,0.913,Colorectal,Male
+Passaic,16,All Races,,478,0.603,0.663,0.540,0.938,0.920,Colorectal,Female
+Salem,17,All Races,,387,0.631,0.691,0.566,0.937,0.913,Colorectal,Male
+Salem,17,All Races,,643,0.644,0.692,0.594,0.951,0.930,Colorectal,Female
+Somerset,18,All Races,,436,0.711,0.769,0.647,0.939,0.892,Colorectal,Male
+Somerset,18,All Races,,517,0.637,0.698,0.572,0.936,0.911,Colorectal,Female
+Sussex,19,All Races,,444,0.697,0.751,0.637,0.943,0.904,Colorectal,Male
+Sussex,19,All Races,,602,0.643,0.693,0.591,0.949,0.927,Colorectal,Female
+Union,20,All Races,,379,0.645,0.712,0.573,0.930,0.900,Colorectal,Male
+Union,20,All Races,,555,0.611,0.662,0.558,0.947,0.931,Colorectal,Female
+Warren,21,All Races,,456,0.650,0.708,0.589,0.940,0.913,Colorectal,Male
+Warren,21,All Races,,629,0.603,0.653,0.552,0.949,0.935,Colorectal,Female
+Atlantic,1,"Asian, non-Hispanic",1,12,**,**,**,0.765,0.693,Colorectal,Male
+Atlantic,1,"Black/African American, non-Hispanic",2,42,**,**,**,0.825,0.788,Colorectal,Male
+Atlantic,1,"White, non-Hispanic",3,336,0.698,0.752,0.637,0.942,0.903,Colorectal,Male
+Atlantic,1,"Other, non-Hispanic",4,4,**,**,**,0.683,0.676,Colorectal,Male
+Atlantic,1,Hispanic/Latino,5,38,**,**,**,0.803,0.772,Colorectal,Male
+Bergen,2,"Asian, non-Hispanic",1,27,**,**,**,0.757,0.729,Colorectal,Male
+Bergen,2,"Black/African American, non-Hispanic",2,15,**,**,**,0.720,0.533,Colorectal,Male
+Bergen,2,"White, non-Hispanic",3,269,0.709,0.774,0.634,0.930,0.877,Colorectal,Male
+Bergen,2,"Other, non-Hispanic",4,5,**,**,**,0.735,0.335,Colorectal,Male
+Bergen,2,Hispanic/Latino,5,37,**,**,**,0.794,0.784,Colorectal,Male
+Burlington,3,"Asian, non-Hispanic",1,10,**,**,**,0.763,0.741,Colorectal,Male
+Burlington,3,"Black/African American, non-Hispanic",2,40,**,**,**,0.862,0.545,Colorectal,Male
+Burlington,3,"White, non-Hispanic",3,342,0.673,0.732,0.608,0.938,0.903,Colorectal,Male
+Burlington,3,"Other, non-Hispanic",4,11,**,**,**,0.669,0.622,Colorectal,Male
+Burlington,3,Hispanic/Latino,5,12,**,**,**,0.793,0.782,Colorectal,Male
+Camden,4,"Asian, non-Hispanic",1,8,**,**,**,0.780,0.399,Colorectal,Male
+Camden,4,"Black/African American, non-Hispanic",2,58,0.606,0.761,0.427,0.827,0.776,Colorectal,Male
+Camden,4,"White, non-Hispanic",3,344,0.728,0.785,0.662,0.938,0.884,Colorectal,Male
+Camden,4,"Other, non-Hispanic",4,9,**,**,**,0.629,0.504,Colorectal,Male
+Camden,4,Hispanic/Latino,5,22,**,**,**,0.716,0.636,Colorectal,Male
+Cape May,5,"Asian, non-Hispanic",1,2,**,**,**,1.000,**,Colorectal,Male
+Cape May,5,"Black/African American, non-Hispanic",2,15,**,**,**,0.730,0.698,Colorectal,Male
+Cape May,5,"White, non-Hispanic",3,365,0.636,0.696,0.572,0.938,0.913,Colorectal,Male
+Cape May,5,"Other, non-Hispanic",4,8,**,**,**,0.769,0.407,Colorectal,Male
+Cape May,5,Hispanic/Latino,5,2,**,**,**,1.000,1.000,Colorectal,Male
+Cumberland,6,"Asian, non-Hispanic",1,5,**,**,**,0.621,0.249,Colorectal,Male
+Cumberland,6,"Black/African American, non-Hispanic",2,32,**,**,**,0.779,0.746,Colorectal,Male
+Cumberland,6,"White, non-Hispanic",3,280,0.581,0.658,0.500,0.920,0.903,Colorectal,Male
+Cumberland,6,"Other, non-Hispanic",4,14,**,**,**,0.754,0.747,Colorectal,Male
+Cumberland,6,Hispanic/Latino,5,35,**,**,**,0.824,0.820,Colorectal,Male
+Essex,7,"Asian, non-Hispanic",1,17,**,**,**,0.741,0.561,Colorectal,Male
+Essex,7,"Black/African American, non-Hispanic",2,217,0.580,0.672,0.483,0.904,0.884,Colorectal,Male
+Essex,7,"White, non-Hispanic",3,336,0.693,0.757,0.620,0.931,0.886,Colorectal,Male
+Essex,7,"Other, non-Hispanic",4,18,**,**,**,0.755,0.619,Colorectal,Male
+Essex,7,Hispanic/Latino,5,76,0.429,0.578,0.291,0.852,0.824,Colorectal,Male
+Gloucester,8,"Asian, non-Hispanic",1,2,**,**,**,1.000,**,Colorectal,Male
+Gloucester,8,"Black/African American, non-Hispanic",2,26,**,**,**,0.838,0.497,Colorectal,Male
+Gloucester,8,"White, non-Hispanic",3,365,0.637,0.696,0.574,0.939,0.914,Colorectal,Male
+Gloucester,8,"Other, non-Hispanic",4,6,**,**,**,0.666,0.450,Colorectal,Male
+Gloucester,8,Hispanic/Latino,5,9,**,**,**,0.866,0.368,Colorectal,Male
+Hudson,9,"Asian, non-Hispanic",1,16,**,**,**,0.796,0.609,Colorectal,Male
+Hudson,9,"Black/African American, non-Hispanic",2,46,**,**,**,0.796,0.781,Colorectal,Male
+Hudson,9,"White, non-Hispanic",3,195,0.682,0.762,0.590,0.914,0.861,Colorectal,Male
+Hudson,9,"Other, non-Hispanic",4,10,**,**,**,0.766,0.395,Colorectal,Male
+Hudson,9,Hispanic/Latino,5,108,0.583,0.707,0.447,0.867,0.837,Colorectal,Male
+Hunterdon,10,"Asian, non-Hispanic",1,5,**,**,**,0.842,-0.090,Colorectal,Male
+Hunterdon,10,"Black/African American, non-Hispanic",2,5,**,**,**,1.000,**,Colorectal,Male
+Hunterdon,10,"White, non-Hispanic",3,474,0.695,0.752,0.632,0.939,0.898,Colorectal,Male
+Hunterdon,10,"Other, non-Hispanic",4,2,**,**,**,1.000,**,Colorectal,Male
+Hunterdon,10,Hispanic/Latino,5,10,**,**,**,0.888,0.064,Colorectal,Male
+Mercer,11,"Asian, non-Hispanic",1,10,**,**,**,0.641,0.572,Colorectal,Male
+Mercer,11,"Black/African American, non-Hispanic",2,50,0.657,0.795,0.485,0.840,0.762,Colorectal,Male
+Mercer,11,"White, non-Hispanic",3,309,0.746,0.805,0.675,0.935,0.870,Colorectal,Male
+Mercer,11,"Other, non-Hispanic",4,4,**,**,**,0.783,-0.113,Colorectal,Male
+Mercer,11,Hispanic/Latino,5,21,**,**,**,0.744,0.719,Colorectal,Male
+Middlesex,12,"Asian, non-Hispanic",1,37,**,**,**,0.799,0.777,Colorectal,Male
+Middlesex,12,"Black/African American, non-Hispanic",2,31,**,**,**,0.829,0.526,Colorectal,Male
+Middlesex,12,"White, non-Hispanic",3,268,0.635,0.706,0.557,0.925,0.895,Colorectal,Male
+Middlesex,12,"Other, non-Hispanic",4,7,**,**,**,0.836,0.805,Colorectal,Male
+Middlesex,12,Hispanic/Latino,5,32,**,**,**,0.802,0.796,Colorectal,Male
+Monmouth,13,"Asian, non-Hispanic",1,14,**,**,**,0.794,0.643,Colorectal,Male
+Monmouth,13,"Black/African American, non-Hispanic",2,15,**,**,**,0.778,0.761,Colorectal,Male
+Monmouth,13,"White, non-Hispanic",3,366,0.703,0.761,0.638,0.938,0.894,Colorectal,Male
+Monmouth,13,"Other, non-Hispanic",4,4,**,**,**,1.000,**,Colorectal,Male
+Monmouth,13,Hispanic/Latino,5,23,**,**,**,0.823,0.651,Colorectal,Male
+Morris,14,"Asian, non-Hispanic",1,19,**,**,**,0.847,0.459,Colorectal,Male
+Morris,14,"Black/African American, non-Hispanic",2,9,**,**,**,0.671,0.541,Colorectal,Male
+Morris,14,"White, non-Hispanic",3,405,0.698,0.759,0.629,0.934,0.889,Colorectal,Male
+Morris,14,"Other, non-Hispanic",4,3,**,**,**,0.772,-0.123,Colorectal,Male
+Morris,14,Hispanic/Latino,5,23,**,**,**,0.826,0.634,Colorectal,Male
+Ocean,15,"Asian, non-Hispanic",1,3,**,**,**,1.000,**,Colorectal,Male
+Ocean,15,"Black/African American, non-Hispanic",2,12,**,**,**,0.790,0.408,Colorectal,Male
+Ocean,15,"White, non-Hispanic",3,354,0.669,0.728,0.603,0.937,0.904,Colorectal,Male
+Ocean,15,"Other, non-Hispanic",4,1,**,**,**,1.000,**,Colorectal,Male
+Ocean,15,Hispanic/Latino,5,8,**,**,**,0.813,0.652,Colorectal,Male
+Passaic,16,"Asian, non-Hispanic",1,10,**,**,**,0.641,0.616,Colorectal,Male
+Passaic,16,"Black/African American, non-Hispanic",2,34,**,**,**,0.812,0.765,Colorectal,Male
+Passaic,16,"White, non-Hispanic",3,233,0.678,0.750,0.597,0.923,0.877,Colorectal,Male
+Passaic,16,"Other, non-Hispanic",4,7,**,**,**,0.733,0.690,Colorectal,Male
+Passaic,16,Hispanic/Latino,5,77,0.505,0.651,0.358,0.849,0.844,Colorectal,Male
+Salem,17,"Asian, non-Hispanic",1,2,**,**,**,1.000,**,Colorectal,Male
+Salem,17,"Black/African American, non-Hispanic",2,34,**,**,**,0.849,0.615,Colorectal,Male
+Salem,17,"White, non-Hispanic",3,332,0.603,0.668,0.535,0.933,0.914,Colorectal,Male
+Salem,17,"Other, non-Hispanic",4,10,**,**,**,0.633,0.542,Colorectal,Male
+Salem,17,Hispanic/Latino,5,6,**,**,**,0.584,0.317,Colorectal,Male
+Somerset,18,"Asian, non-Hispanic",1,30,**,**,**,0.818,0.677,Colorectal,Male
+Somerset,18,"Black/African American, non-Hispanic",2,16,**,**,**,0.726,0.520,Colorectal,Male
+Somerset,18,"White, non-Hispanic",3,352,0.748,0.800,0.687,0.943,0.886,Colorectal,Male
+Somerset,18,"Other, non-Hispanic",4,9,**,**,**,0.877,0.261,Colorectal,Male
+Somerset,18,Hispanic/Latino,5,20,**,**,**,0.815,0.695,Colorectal,Male
+Sussex,19,"Asian, non-Hispanic",1,2,**,**,**,1.000,**,Colorectal,Male
+Sussex,19,"Black/African American, non-Hispanic",2,11,**,**,**,0.801,0.333,Colorectal,Male
+Sussex,19,"White, non-Hispanic",3,404,0.688,0.745,0.625,0.940,0.901,Colorectal,Male
+Sussex,19,"Other, non-Hispanic",4,7,**,**,**,0.516,0.496,Colorectal,Male
+Sussex,19,Hispanic/Latino,5,12,**,**,**,0.832,0.334,Colorectal,Male
+Union,20,"Asian, non-Hispanic",1,13,**,**,**,0.718,0.603,Colorectal,Male
+Union,20,"Black/African American, non-Hispanic",2,51,0.797,0.885,0.668,0.892,0.728,Colorectal,Male
+Union,20,"White, non-Hispanic",3,232,0.724,0.787,0.650,0.931,0.873,Colorectal,Male
+Union,20,"Other, non-Hispanic",4,9,**,**,**,0.682,0.477,Colorectal,Male
+Union,20,Hispanic/Latino,5,65,0.409,0.581,0.257,0.832,0.791,Colorectal,Male
+Warren,21,"Asian, non-Hispanic",1,1,**,**,**,1.000,**,Colorectal,Male
+Warren,21,"Black/African American, non-Hispanic",2,8,**,**,**,1.000,**,Colorectal,Male
+Warren,21,"White, non-Hispanic",3,413,0.651,0.711,0.586,0.937,0.908,Colorectal,Male
+Warren,21,"Other, non-Hispanic",4,8,**,**,**,0.754,0.316,Colorectal,Male
+Warren,21,Hispanic/Latino,5,19,**,**,**,0.716,0.554,Colorectal,Male
+Atlantic,1,"Asian, non-Hispanic",1,1,**,**,**,1.000,**,Colorectal,Female
+Atlantic,1,"Black/African American, non-Hispanic",2,61,0.749,0.852,0.608,0.876,0.749,Colorectal,Female
+Atlantic,1,"White, non-Hispanic",3,408,0.675,0.727,0.617,0.945,0.913,Colorectal,Female
+Atlantic,1,"Other, non-Hispanic",4,14,**,**,**,0.716,0.615,Colorectal,Female
+Atlantic,1,Hispanic/Latino,5,37,**,**,**,0.784,0.754,Colorectal,Female
+Bergen,2,"Asian, non-Hispanic",1,14,**,**,**,0.826,0.372,Colorectal,Female
+Bergen,2,"Black/African American, non-Hispanic",2,29,**,**,**,0.830,0.549,Colorectal,Female
+Bergen,2,"White, non-Hispanic",3,350,0.686,0.746,0.620,0.937,0.897,Colorectal,Female
+Bergen,2,"Other, non-Hispanic",4,13,**,**,**,0.778,0.729,Colorectal,Female
+Bergen,2,Hispanic/Latino,5,72,0.595,0.738,0.434,0.844,0.803,Colorectal,Female
+Burlington,3,"Asian, non-Hispanic",1,6,**,**,**,0.801,0.059,Colorectal,Female
+Burlington,3,"Black/African American, non-Hispanic",2,94,0.822,0.899,0.705,0.904,0.725,Colorectal,Female
+Burlington,3,"White, non-Hispanic",3,475,0.717,0.764,0.665,0.951,0.911,Colorectal,Female
+Burlington,3,"Other, non-Hispanic",4,8,**,**,**,0.754,0.059,Colorectal,Female
+Burlington,3,Hispanic/Latino,5,12,**,**,**,0.731,0.574,Colorectal,Female
+Camden,4,"Asian, non-Hispanic",1,2,**,**,**,1.000,1.000,Colorectal,Female
+Camden,4,"Black/African American, non-Hispanic",2,99,0.695,0.810,0.550,0.868,0.778,Colorectal,Female
+Camden,4,"White, non-Hispanic",3,479,0.704,0.754,0.649,0.947,0.909,Colorectal,Female
+Camden,4,"Other, non-Hispanic",4,8,**,**,**,0.789,0.135,Colorectal,Female
+Camden,4,Hispanic/Latino,5,32,**,**,**,0.780,0.759,Colorectal,Female
+Cape May,5,"Black/African American, non-Hispanic",2,19,**,**,**,0.773,0.424,Colorectal,Female
+Cape May,5,"White, non-Hispanic",3,578,0.670,0.731,0.603,0.936,0.900,Colorectal,Female
+Cape May,5,"Other, non-Hispanic",4,5,**,**,**,0.624,0.180,Colorectal,Female
+Cape May,5,Hispanic/Latino,5,9,**,**,**,0.654,0.316,Colorectal,Female
+Cumberland,6,"Asian, non-Hispanic",1,6,**,**,**,1.000,**,Colorectal,Female
+Cumberland,6,"Black/African American, non-Hispanic",2,73,0.753,0.857,0.607,0.874,0.740,Colorectal,Female
+Cumberland,6,"White, non-Hispanic",3,399,0.648,0.705,0.585,0.940,0.913,Colorectal,Female
+Cumberland,6,"Other, non-Hispanic",4,14,**,**,**,0.887,0.607,Colorectal,Female
+Cumberland,6,Hispanic/Latino,5,51,0.687,0.815,0.521,0.849,0.754,Colorectal,Female
+Essex,7,"Asian, non-Hispanic",1,13,**,**,**,0.755,0.437,Colorectal,Female
+Essex,7,"Black/African American, non-Hispanic",2,522,0.684,0.738,0.625,0.943,0.908,Colorectal,Female
+Essex,7,"White, non-Hispanic",3,402,0.722,0.777,0.659,0.941,0.892,Colorectal,Female
+Essex,7,"Other, non-Hispanic",4,31,**,**,**,0.801,0.663,Colorectal,Female
+Essex,7,Hispanic/Latino,5,152,0.718,0.805,0.612,0.903,0.824,Colorectal,Female
+Gloucester,8,"Asian, non-Hispanic",1,4,**,**,**,0.677,0.669,Colorectal,Female
+Gloucester,8,"Black/African American, non-Hispanic",2,34,**,**,**,0.804,0.682,Colorectal,Female
+Gloucester,8,"White, non-Hispanic",3,497,0.684,0.737,0.625,0.944,0.909,Colorectal,Female
+Gloucester,8,"Other, non-Hispanic",4,6,**,**,**,0.703,0.607,Colorectal,Female
+Gloucester,8,Hispanic/Latino,5,12,**,**,**,0.617,0.541,Colorectal,Female
+Hudson,9,"Asian, non-Hispanic",1,21,**,**,**,0.802,0.746,Colorectal,Female
+Hudson,9,"Black/African American, non-Hispanic",2,112,0.654,0.752,0.539,0.892,0.841,Colorectal,Female
+Hudson,9,"White, non-Hispanic",3,292,0.632,0.704,0.553,0.924,0.894,Colorectal,Female
+Hudson,9,"Other, non-Hispanic",4,17,**,**,**,0.721,0.493,Colorectal,Female
+Hudson,9,Hispanic/Latino,5,197,0.699,0.777,0.608,0.915,0.856,Colorectal,Female
+Hunterdon,10,"Asian, non-Hispanic",1,7,**,**,**,0.758,0.347,Colorectal,Female
+Hunterdon,10,"Black/African American, non-Hispanic",2,13,**,**,**,0.717,0.621,Colorectal,Female
+Hunterdon,10,"White, non-Hispanic",3,557,0.684,0.735,0.628,0.946,0.913,Colorectal,Female
+Hunterdon,10,"Other, non-Hispanic",4,2,**,**,**,0.625,-0.186,Colorectal,Female
+Hunterdon,10,Hispanic/Latino,5,16,**,**,**,0.860,0.301,Colorectal,Female
+Mercer,11,"Asian, non-Hispanic",1,25,**,**,**,0.764,0.711,Colorectal,Female
+Mercer,11,"Black/African American, non-Hispanic",2,84,0.766,0.860,0.636,0.887,0.754,Colorectal,Female
+Mercer,11,"White, non-Hispanic",3,412,0.697,0.751,0.636,0.943,0.904,Colorectal,Female
+Mercer,11,"Other, non-Hispanic",4,7,**,**,**,0.653,0.520,Colorectal,Female
+Mercer,11,Hispanic/Latino,5,16,**,**,**,0.690,0.663,Colorectal,Female
+Middlesex,12,"Asian, non-Hispanic",1,26,**,**,**,0.773,0.698,Colorectal,Female
+Middlesex,12,"Black/African American, non-Hispanic",2,39,**,**,**,0.814,0.654,Colorectal,Female
+Middlesex,12,"White, non-Hispanic",3,369,0.654,0.714,0.589,0.937,0.907,Colorectal,Female
+Middlesex,12,"Other, non-Hispanic",4,5,**,**,**,0.760,0.383,Colorectal,Female
+Middlesex,12,Hispanic/Latino,5,41,**,**,**,0.817,0.746,Colorectal,Female
+Monmouth,13,"Asian, non-Hispanic",1,11,**,**,**,0.760,0.726,Colorectal,Female
+Monmouth,13,"Black/African American, non-Hispanic",2,31,**,**,**,0.808,0.707,Colorectal,Female
+Monmouth,13,"White, non-Hispanic",3,460,0.669,0.723,0.611,0.944,0.914,Colorectal,Female
+Monmouth,13,"Other, non-Hispanic",4,11,**,**,**,0.662,0.627,Colorectal,Female
+Monmouth,13,Hispanic/Latino,5,23,**,**,**,0.795,0.577,Colorectal,Female
+Morris,14,"Asian, non-Hispanic",1,9,**,**,**,0.829,0.797,Colorectal,Female
+Morris,14,"Black/African American, non-Hispanic",2,12,**,**,**,0.760,0.334,Colorectal,Female
+Morris,14,"White, non-Hispanic",3,545,0.708,0.758,0.652,0.947,0.908,Colorectal,Female
+Morris,14,"Other, non-Hispanic",4,5,**,**,**,0.534,0.231,Colorectal,Female
+Morris,14,Hispanic/Latino,5,36,**,**,**,0.859,0.736,Colorectal,Female
+Ocean,15,"Asian, non-Hispanic",1,2,**,**,**,1.000,**,Colorectal,Female
+Ocean,15,"Black/African American, non-Hispanic",2,9,**,**,**,0.674,0.641,Colorectal,Female
+Ocean,15,"White, non-Hispanic",3,531,0.664,0.714,0.612,0.949,0.922,Colorectal,Female
+Ocean,15,"Other, non-Hispanic",4,7,**,**,**,1.000,**,Colorectal,Female
+Ocean,15,Hispanic/Latino,5,16,**,**,**,0.739,0.722,Colorectal,Female
+Passaic,16,"Asian, non-Hispanic",1,7,**,**,**,0.695,0.688,Colorectal,Female
+Passaic,16,"Black/African American, non-Hispanic",2,46,**,**,**,0.820,0.802,Colorectal,Female
+Passaic,16,"White, non-Hispanic",3,293,0.590,0.667,0.508,0.920,0.900,Colorectal,Female
+Passaic,16,"Other, non-Hispanic",4,3,**,**,**,0.551,0.441,Colorectal,Female
+Passaic,16,Hispanic/Latino,5,122,0.626,0.732,0.508,0.886,0.844,Colorectal,Female
+Salem,17,"Black/African American, non-Hispanic",2,80,0.732,0.831,0.603,0.885,0.780,Colorectal,Female
+Salem,17,"White, non-Hispanic",3,529,0.632,0.684,0.576,0.946,0.925,Colorectal,Female
+Salem,17,"Other, non-Hispanic",4,10,**,**,**,0.564,0.524,Colorectal,Female
+Salem,17,Hispanic/Latino,5,16,**,**,**,0.864,0.380,Colorectal,Female
+Somerset,18,"Asian, non-Hispanic",1,17,**,**,**,0.800,0.756,Colorectal,Female
+Somerset,18,"Black/African American, non-Hispanic",2,28,**,**,**,0.779,0.733,Colorectal,Female
+Somerset,18,"White, non-Hispanic",3,427,0.702,0.755,0.644,0.944,0.904,Colorectal,Female
+Somerset,18,"Other, non-Hispanic",4,12,**,**,**,0.652,0.636,Colorectal,Female
+Somerset,18,Hispanic/Latino,5,23,**,**,**,0.780,0.746,Colorectal,Female
+Sussex,19,"Asian, non-Hispanic",1,6,**,**,**,0.794,0.769,Colorectal,Female
+Sussex,19,"Black/African American, non-Hispanic",2,6,**,**,**,0.777,0.228,Colorectal,Female
+Sussex,19,"White, non-Hispanic",3,558,0.650,0.699,0.596,0.948,0.925,Colorectal,Female
+Sussex,19,"Other, non-Hispanic",4,7,**,**,**,0.662,0.141,Colorectal,Female
+Sussex,19,Hispanic/Latino,5,21,**,**,**,0.734,0.688,Colorectal,Female
+Union,20,"Asian, non-Hispanic",1,9,**,**,**,0.642,0.632,Colorectal,Female
+Union,20,"Black/African American, non-Hispanic",2,112,0.513,0.624,0.401,0.886,0.881,Colorectal,Female
+Union,20,"White, non-Hispanic",3,318,0.636,0.702,0.565,0.931,0.903,Colorectal,Female
+Union,20,"Other, non-Hispanic",4,14,**,**,**,0.730,0.570,Colorectal,Female
+Union,20,Hispanic/Latino,5,94,0.679,0.779,0.560,0.889,0.824,Colorectal,Female
+Warren,21,"Asian, non-Hispanic",1,3,**,**,**,0.602,0.569,Colorectal,Female
+Warren,21,"Black/African American, non-Hispanic",2,15,**,**,**,0.690,0.551,Colorectal,Female
+Warren,21,"White, non-Hispanic",3,589,0.605,0.655,0.553,0.949,0.933,Colorectal,Female
+Warren,21,"Other, non-Hispanic",4,6,**,**,**,0.641,0.521,Colorectal,Female
+Warren,21,Hispanic/Latino,5,10,**,**,**,0.731,0.631,Colorectal,Female
+Total,.,All Races,,13345,0.828,0.817,0.839,0.011,0.033,Cervical,Female
+Atlantic,1,All Races,,545,0.801,0.747,0.847,0.05,0.128,Cervical,Female
+Bergen,2,All Races,,617,0.859,0.814,0.895,0.041,0.147,Cervical,Female
+Burlington,3,All Races,,610,0.808,0.751,0.855,0.052,0.138,Cervical,Female
+Camden,4,All Races,,705,0.864,0.819,0.899,0.04,0.148,Cervical,Female
+Cape May,5,All Races,,423,0.798,0.709,0.865,0.078,0.197,Cervical,Female
+Cumberland,6,All Races,,526,0.809,0.76,0.85,0.045,0.12,Cervical,Female
+Essex,7,All Races,,1371,0.812,0.775,0.845,0.035,0.095,Cervical,Female
+Gloucester,8,All Races,,574,0.886,0.85,0.914,0.031,0.14,Cervical,Female
+Hudson,9,All Races,,858,0.792,0.752,0.827,0.038,0.092,Cervical,Female
+Hunterdon,10,All Races,,588,0.814,0.733,0.874,0.07,0.193,Cervical,Female
+Mercer,11,All Races,,595,0.837,0.785,0.878,0.046,0.145,Cervical,Female
+Middlesex,12,All Races,,636,0.743,0.692,0.789,0.049,0.097,Cervical,Female
+Monmouth,13,All Races,,583,0.869,0.823,0.904,0.04,0.156,Cervical,Female
+Morris,14,All Races,,634,0.868,0.819,0.905,0.042,0.164,Cervical,Female
+Ocean,15,All Races,,507,0.826,0.771,0.87,0.05,0.145,Cervical,Female
+Passaic,16,All Races,,621,0.865,0.826,0.896,0.035,0.131,Cervical,Female
+Salem,17,All Races,,515,0.791,0.718,0.849,0.065,0.16,Cervical,Female
+Somerset,18,All Races,,618,0.842,0.786,0.885,0.049,0.158,Cervical,Female
+Sussex,19,All Races,,554,0.852,0.802,0.891,0.044,0.153,Cervical,Female
+Union,20,All Races,,703,0.82,0.765,0.864,0.05,0.14,Cervical,Female
+Warren,21,All Races,,562,0.864,0.824,0.897,0.036,0.135,Cervical,Female
+Atlantic,1,"Asian, non-Hispanic",1,11,**,**,**,0.119,0.178,Cervical,Female
+Atlantic,1,"Black/African American, non-Hispanic",2,73,0.944,0.853,0.98,0.056,0.517,Cervical,Female
+Atlantic,1,"White, non-Hispanic",3,345,0.8,0.725,0.858,0.067,0.17,Cervical,Female
+Atlantic,1,"Other, non-Hispanic",4,21,**,**,**,0.086,0.751,Cervical,Female
+Atlantic,1,Hispanic/Latino,5,86,0.783,0.658,0.871,0.106,0.25,Cervical,Female
+Bergen,2,"Asian, non-Hispanic",1,37,**,**,**,0.101,0.351,Cervical,Female
+Bergen,2,"Black/African American, non-Hispanic",2,55,0.73,0.576,0.843,0.136,0.256,Cervical,Female
+Bergen,2,"White, non-Hispanic",3,379,0.869,0.804,0.915,0.055,0.216,Cervical,Female
+Bergen,2,"Other, non-Hispanic",4,18,**,**,**,0.206,0.408,Cervical,Female
+Bergen,2,Hispanic/Latino,5,117,0.924,0.855,0.961,0.051,0.338,Cervical,Female
+Burlington,3,"Asian, non-Hispanic",1,13,**,**,**,0.304,0.324,Cervical,Female
+Burlington,3,"Black/African American, non-Hispanic",2,98,0.965,0.912,0.986,0.033,0.48,Cervical,Female
+Burlington,3,"White, non-Hispanic",3,432,0.79,0.718,0.848,0.065,0.159,Cervical,Female
+Burlington,3,"Other, non-Hispanic",4,21,**,**,**,0.229,0.505,Cervical,Female
+Burlington,3,Hispanic/Latino,5,38,**,**,**,0.134,0.45,Cervical,Female
+Camden,4,"Asian, non-Hispanic",1,13,**,**,**,0.253,0.297,Cervical,Female
+Camden,4,"Black/African American, non-Hispanic",2,121,0.941,0.876,0.973,0.045,0.392,Cervical,Female
+Camden,4,"White, non-Hispanic",3,452,0.875,0.812,0.918,0.052,0.213,Cervical,Female
+Camden,4,"Other, non-Hispanic",4,17,**,**,**,0.081,0.147,Cervical,Female
+Camden,4,Hispanic/Latino,5,90,0.842,0.736,0.911,0.087,0.28,Cervical,Female
+Cape May,5,"Asian, non-Hispanic",1,2,**,**,**,0,0,Cervical,Female
+Cape May,5,"Black/African American, non-Hispanic",2,15,**,**,**,0.102,0.645,Cervical,Female
+Cape May,5,"White, non-Hispanic",3,375,0.826,0.743,0.886,0.071,0.208,Cervical,Female
+Cape May,5,"Other, non-Hispanic",4,4,**,**,**,0.27,0.303,Cervical,Female
+Cape May,5,Hispanic/Latino,5,21,**,**,**,0.185,0.31,Cervical,Female
+Cumberland,6,"Asian, non-Hispanic",1,9,**,**,**,0.105,0.162,Cervical,Female
+Cumberland,6,"Black/African American, non-Hispanic",2,73,0.92,0.776,0.974,0.088,0.559,Cervical,Female
+Cumberland,6,"White, non-Hispanic",3,313,0.757,0.681,0.819,0.069,0.144,Cervical,Female
+Cumberland,6,"Other, non-Hispanic",4,14,**,**,**,0.214,0.623,Cervical,Female
+Cumberland,6,Hispanic/Latino,5,104,0.845,0.75,0.909,0.078,0.258,Cervical,Female
+Essex,7,"Asian, non-Hispanic",1,29,**,**,**,0.22,0.241,Cervical,Female
+Essex,7,"Black/African American, non-Hispanic",2,604,0.812,0.759,0.856,0.048,0.13,Cervical,Female
+Essex,7,"White, non-Hispanic",3,370,0.836,0.766,0.888,0.061,0.188,Cervical,Female
+Essex,7,"Other, non-Hispanic",4,34,**,**,**,0.147,0.331,Cervical,Female
+Essex,7,Hispanic/Latino,5,300,0.865,0.792,0.915,0.06,0.228,Cervical,Female
+Gloucester,8,"Asian, non-Hispanic",1,8,**,**,**,0.059,1.101,Cervical,Female
+Gloucester,8,"Black/African American, non-Hispanic",2,48,**,**,**,0.123,0.449,Cervical,Female
+Gloucester,8,"White, non-Hispanic",3,474,0.879,0.838,0.91,0.036,0.151,Cervical,Female
+Gloucester,8,"Other, non-Hispanic",4,9,**,**,**,0.219,0.547,Cervical,Female
+Gloucester,8,Hispanic/Latino,5,24,**,**,**,0.043,0.91,Cervical,Female
+Hudson,9,"Asian, non-Hispanic",1,75,**,**,**,0.104,0.203,Cervical,Female
+Hudson,9,"Black/African American, non-Hispanic",2,126,0.753,0.634,0.842,0.105,0.216,Cervical,Female
+Hudson,9,"White, non-Hispanic",3,314,0.825,0.765,0.872,0.054,0.156,Cervical,Female
+Hudson,9,"Other, non-Hispanic",4,28,**,**,**,0.217,0.37,Cervical,Female
+Hudson,9,Hispanic/Latino,5,287,0.831,0.768,0.88,0.056,0.169,Cervical,Female
+Hunterdon,10,"Asian, non-Hispanic",1,14,**,**,**,0.193,0.563,Cervical,Female
+Hunterdon,10,"Black/African American, non-Hispanic",2,12,**,**,**,0.078,0.113,Cervical,Female
+Hunterdon,10,"White, non-Hispanic",3,528,0.821,0.737,0.883,0.073,0.208,Cervical,Female
+Hunterdon,10,"Other, non-Hispanic",4,5,**,**,**,0,.,Cervical,Female
+Hunterdon,10,Hispanic/Latino,5,22,**,**,**,0.121,0.751,Cervical,Female
+Mercer,11,"Asian, non-Hispanic",1,41,**,**,**,0.174,0.34,Cervical,Female
+Mercer,11,"Black/African American, non-Hispanic",2,100,0.853,0.73,0.926,0.096,0.334,Cervical,Female
+Mercer,11,"White, non-Hispanic",3,359,0.891,0.841,0.926,0.042,0.196,Cervical,Female
+Mercer,11,"Other, non-Hispanic",4,14,**,**,**,0,.,Cervical,Female
+Mercer,11,Hispanic/Latino,5,71,0.793,0.656,0.885,0.114,0.281,Cervical,Female
+Middlesex,12,"Asian, non-Hispanic",1,92,**,**,**,0.111,0.167,Cervical,Female
+Middlesex,12,"Black/African American, non-Hispanic",2,57,0.833,0.681,0.921,0.118,0.359,Cervical,Female
+Middlesex,12,"White, non-Hispanic",3,360,0.815,0.744,0.869,0.062,0.171,Cervical,Female
+Middlesex,12,"Other, non-Hispanic",4,9,**,**,**,0.147,0.171,Cervical,Female
+Middlesex,12,Hispanic/Latino,5,109,0.792,0.672,0.876,0.102,0.249,Cervical,Female
+Monmouth,13,"Asian, non-Hispanic",1,16,**,**,**,0.125,0.234,Cervical,Female
+Monmouth,13,"Black/African American, non-Hispanic",2,27,**,**,**,0.08,0.439,Cervical,Female
+Monmouth,13,"White, non-Hispanic",3,466,0.877,0.826,0.915,0.044,0.183,Cervical,Female
+Monmouth,13,"Other, non-Hispanic",4,14,**,**,**,0.089,0.709,Cervical,Female
+Monmouth,13,Hispanic/Latino,5,56,0.896,0.771,0.957,0.088,0.432,Cervical,Female
+Morris,14,"Asian, non-Hispanic",1,39,**,**,**,0.169,0.315,Cervical,Female
+Morris,14,"Black/African American, non-Hispanic",2,22,**,**,**,0.134,0.472,Cervical,Female
+Morris,14,"White, non-Hispanic",3,490,0.889,0.835,0.927,0.046,0.21,Cervical,Female
+Morris,14,"Other, non-Hispanic",4,7,**,**,**,0.194,0.213,Cervical,Female
+Morris,14,Hispanic/Latino,5,70,0.959,0.9,0.984,0.038,0.463,Cervical,Female
+Ocean,15,"Asian, non-Hispanic",1,3,**,**,**,0,0,Cervical,Female
+Ocean,15,"Black/African American, non-Hispanic",2,9,**,**,**,0,0,Cervical,Female
+Ocean,15,"White, non-Hispanic",3,430,0.828,0.759,0.88,0.06,0.179,Cervical,Female
+Ocean,15,"Other, non-Hispanic",4,7,**,**,**,0.163,0.831,Cervical,Female
+Ocean,15,Hispanic/Latino,5,50,0.782,0.626,0.885,0.13,0.305,Cervical,Female
+Passaic,16,"Asian, non-Hispanic",1,14,**,**,**,0.164,0.672,Cervical,Female
+Passaic,16,"Black/African American, non-Hispanic",2,69,0.819,0.674,0.908,0.116,0.326,Cervical,Female
+Passaic,16,"White, non-Hispanic",3,283,0.867,0.796,0.916,0.059,0.229,Cervical,Female
+Passaic,16,"Other, non-Hispanic",4,10,**,**,**,0.223,0.6,Cervical,Female
+Passaic,16,Hispanic/Latino,5,232,0.887,0.832,0.925,0.046,0.206,Cervical,Female
+Salem,17,"Asian, non-Hispanic",1,1,**,**,**,0,.,Cervical,Female
+Salem,17,"Black/African American, non-Hispanic",2,70,0.923,0.805,0.972,0.076,0.505,Cervical,Female
+Salem,17,"White, non-Hispanic",3,401,0.797,0.726,0.853,0.064,0.161,Cervical,Female
+Salem,17,"Other, non-Hispanic",4,15,**,**,**,0.228,0.251,Cervical,Female
+Salem,17,Hispanic/Latino,5,25,**,**,**,0.204,0.258,Cervical,Female
+Somerset,18,"Asian, non-Hispanic",1,55,0.807,0.632,0.911,0.139,0.368,Cervical,Female
+Somerset,18,"Black/African American, non-Hispanic",2,38,**,**,**,0.185,0.312,Cervical,Female
+Somerset,18,"White, non-Hispanic",3,438,0.881,0.814,0.926,0.055,0.235,Cervical,Female
+Somerset,18,"Other, non-Hispanic",4,15,**,**,**,0.202,0.327,Cervical,Female
+Somerset,18,Hispanic/Latino,5,63,0.892,0.79,0.947,0.076,0.356,Cervical,Female
+Sussex,19,"Asian, non-Hispanic",1,9,**,**,**,0.119,0.156,Cervical,Female
+Sussex,19,"Black/African American, non-Hispanic",2,16,**,**,**,0.103,0.694,Cervical,Female
+Sussex,19,"White, non-Hispanic",3,474,0.858,0.799,0.901,0.051,0.183,Cervical,Female
+Sussex,19,"Other, non-Hispanic",4,6,**,**,**,0.022,0.029,Cervical,Female
+Sussex,19,Hispanic/Latino,5,41,**,**,**,0.15,0.493,Cervical,Female
+Union,20,"Asian, non-Hispanic",1,13,**,**,**,0.135,0.278,Cervical,Female
+Union,20,"Black/African American, non-Hispanic",2,141,0.873,0.779,0.931,0.074,0.298,Cervical,Female
+Union,20,"White, non-Hispanic",3,353,0.798,0.692,0.874,0.091,0.229,Cervical,Female
+Union,20,"Other, non-Hispanic",4,15,**,**,**,0.049,0.072,Cervical,Female
+Union,20,Hispanic/Latino,5,170,0.804,0.7,0.878,0.089,0.231,Cervical,Female
+Warren,21,"Asian, non-Hispanic",1,4,**,**,**,0,0,Cervical,Female
+Warren,21,"Black/African American, non-Hispanic",2,16,**,**,**,0.164,0.86,Cervical,Female
+Warren,21,"White, non-Hispanic",3,503,0.865,0.819,0.9,0.04,0.15,Cervical,Female
+Warren,21,"Other, non-Hispanic",4,5,**,**,**,0.212,0.292,Cervical,Female
+Warren,21,Hispanic/Latino,5,29,**,**,**,0.114,0.412,Cervical,Female
+Total,.,All Races,,13345,0.828,0.817,0.839,0.011,0.033,Cervical,Male and Female
+Atlantic,1,All Races,,545,0.801,0.747,0.847,0.05,0.128,Cervical,Male and Female
+Bergen,2,All Races,,617,0.859,0.814,0.895,0.041,0.147,Cervical,Male and Female
+Burlington,3,All Races,,610,0.808,0.751,0.855,0.052,0.138,Cervical,Male and Female
+Camden,4,All Races,,705,0.864,0.819,0.899,0.04,0.148,Cervical,Male and Female
+Cape May,5,All Races,,423,0.798,0.709,0.865,0.078,0.197,Cervical,Male and Female
+Cumberland,6,All Races,,526,0.809,0.76,0.85,0.045,0.12,Cervical,Male and Female
+Essex,7,All Races,,1371,0.812,0.775,0.845,0.035,0.095,Cervical,Male and Female
+Gloucester,8,All Races,,574,0.886,0.85,0.914,0.031,0.14,Cervical,Male and Female
+Hudson,9,All Races,,858,0.792,0.752,0.827,0.038,0.092,Cervical,Male and Female
+Hunterdon,10,All Races,,588,0.814,0.733,0.874,0.07,0.193,Cervical,Male and Female
+Mercer,11,All Races,,595,0.837,0.785,0.878,0.046,0.145,Cervical,Male and Female
+Middlesex,12,All Races,,636,0.743,0.692,0.789,0.049,0.097,Cervical,Male and Female
+Monmouth,13,All Races,,583,0.869,0.823,0.904,0.04,0.156,Cervical,Male and Female
+Morris,14,All Races,,634,0.868,0.819,0.905,0.042,0.164,Cervical,Male and Female
+Ocean,15,All Races,,507,0.826,0.771,0.87,0.05,0.145,Cervical,Male and Female
+Passaic,16,All Races,,621,0.865,0.826,0.896,0.035,0.131,Cervical,Male and Female
+Salem,17,All Races,,515,0.791,0.718,0.849,0.065,0.16,Cervical,Male and Female
+Somerset,18,All Races,,618,0.842,0.786,0.885,0.049,0.158,Cervical,Male and Female
+Sussex,19,All Races,,554,0.852,0.802,0.891,0.044,0.153,Cervical,Male and Female
+Union,20,All Races,,703,0.82,0.765,0.864,0.05,0.14,Cervical,Male and Female
+Warren,21,All Races,,562,0.864,0.824,0.897,0.036,0.135,Cervical,Male and Female
+Atlantic,1,"Asian, non-Hispanic",1,11,**,**,**,0.119,0.178,Cervical,Male and Female
+Atlantic,1,"Black/African American, non-Hispanic",2,73,0.944,0.853,0.98,0.056,0.517,Cervical,Male and Female
+Atlantic,1,"White, non-Hispanic",3,345,0.8,0.725,0.858,0.067,0.17,Cervical,Male and Female
+Atlantic,1,"Other, non-Hispanic",4,21,**,**,**,0.086,0.751,Cervical,Male and Female
+Atlantic,1,Hispanic/Latino,5,86,0.783,0.658,0.871,0.106,0.25,Cervical,Male and Female
+Bergen,2,"Asian, non-Hispanic",1,37,**,**,**,0.101,0.351,Cervical,Male and Female
+Bergen,2,"Black/African American, non-Hispanic",2,55,0.73,0.576,0.843,0.136,0.256,Cervical,Male and Female
+Bergen,2,"White, non-Hispanic",3,379,0.869,0.804,0.915,0.055,0.216,Cervical,Male and Female
+Bergen,2,"Other, non-Hispanic",4,18,**,**,**,0.206,0.408,Cervical,Male and Female
+Bergen,2,Hispanic/Latino,5,117,0.924,0.855,0.961,0.051,0.338,Cervical,Male and Female
+Burlington,3,"Asian, non-Hispanic",1,13,**,**,**,0.304,0.324,Cervical,Male and Female
+Burlington,3,"Black/African American, non-Hispanic",2,98,0.965,0.912,0.986,0.033,0.48,Cervical,Male and Female
+Burlington,3,"White, non-Hispanic",3,432,0.79,0.718,0.848,0.065,0.159,Cervical,Male and Female
+Burlington,3,"Other, non-Hispanic",4,21,**,**,**,0.229,0.505,Cervical,Male and Female
+Burlington,3,Hispanic/Latino,5,38,**,**,**,0.134,0.45,Cervical,Male and Female
+Camden,4,"Asian, non-Hispanic",1,13,**,**,**,0.253,0.297,Cervical,Male and Female
+Camden,4,"Black/African American, non-Hispanic",2,121,0.941,0.876,0.973,0.045,0.392,Cervical,Male and Female
+Camden,4,"White, non-Hispanic",3,452,0.875,0.812,0.918,0.052,0.213,Cervical,Male and Female
+Camden,4,"Other, non-Hispanic",4,17,**,**,**,0.081,0.147,Cervical,Male and Female
+Camden,4,Hispanic/Latino,5,90,0.842,0.736,0.911,0.087,0.28,Cervical,Male and Female
+Cape May,5,"Asian, non-Hispanic",1,2,**,**,**,0,0,Cervical,Male and Female
+Cape May,5,"Black/African American, non-Hispanic",2,15,**,**,**,0.102,0.645,Cervical,Male and Female
+Cape May,5,"White, non-Hispanic",3,375,0.826,0.743,0.886,0.071,0.208,Cervical,Male and Female
+Cape May,5,"Other, non-Hispanic",4,4,**,**,**,0.27,0.303,Cervical,Male and Female
+Cape May,5,Hispanic/Latino,5,21,**,**,**,0.185,0.31,Cervical,Male and Female
+Cumberland,6,"Asian, non-Hispanic",1,9,**,**,**,0.105,0.162,Cervical,Male and Female
+Cumberland,6,"Black/African American, non-Hispanic",2,73,0.92,0.776,0.974,0.088,0.559,Cervical,Male and Female
+Cumberland,6,"White, non-Hispanic",3,313,0.757,0.681,0.819,0.069,0.144,Cervical,Male and Female
+Cumberland,6,"Other, non-Hispanic",4,14,**,**,**,0.214,0.623,Cervical,Male and Female
+Cumberland,6,Hispanic/Latino,5,104,0.845,0.75,0.909,0.078,0.258,Cervical,Male and Female
+Essex,7,"Asian, non-Hispanic",1,29,**,**,**,0.22,0.241,Cervical,Male and Female
+Essex,7,"Black/African American, non-Hispanic",2,604,0.812,0.759,0.856,0.048,0.13,Cervical,Male and Female
+Essex,7,"White, non-Hispanic",3,370,0.836,0.766,0.888,0.061,0.188,Cervical,Male and Female
+Essex,7,"Other, non-Hispanic",4,34,**,**,**,0.147,0.331,Cervical,Male and Female
+Essex,7,Hispanic/Latino,5,300,0.865,0.792,0.915,0.06,0.228,Cervical,Male and Female
+Gloucester,8,"Asian, non-Hispanic",1,8,**,**,**,0.059,1.101,Cervical,Male and Female
+Gloucester,8,"Black/African American, non-Hispanic",2,48,**,**,**,0.123,0.449,Cervical,Male and Female
+Gloucester,8,"White, non-Hispanic",3,474,0.879,0.838,0.91,0.036,0.151,Cervical,Male and Female
+Gloucester,8,"Other, non-Hispanic",4,9,**,**,**,0.219,0.547,Cervical,Male and Female
+Gloucester,8,Hispanic/Latino,5,24,**,**,**,0.043,0.91,Cervical,Male and Female
+Hudson,9,"Asian, non-Hispanic",1,75,**,**,**,0.104,0.203,Cervical,Male and Female
+Hudson,9,"Black/African American, non-Hispanic",2,126,0.753,0.634,0.842,0.105,0.216,Cervical,Male and Female
+Hudson,9,"White, non-Hispanic",3,314,0.825,0.765,0.872,0.054,0.156,Cervical,Male and Female
+Hudson,9,"Other, non-Hispanic",4,28,**,**,**,0.217,0.37,Cervical,Male and Female
+Hudson,9,Hispanic/Latino,5,287,0.831,0.768,0.88,0.056,0.169,Cervical,Male and Female
+Hunterdon,10,"Asian, non-Hispanic",1,14,**,**,**,0.193,0.563,Cervical,Male and Female
+Hunterdon,10,"Black/African American, non-Hispanic",2,12,**,**,**,0.078,0.113,Cervical,Male and Female
+Hunterdon,10,"White, non-Hispanic",3,528,0.821,0.737,0.883,0.073,0.208,Cervical,Male and Female
+Hunterdon,10,"Other, non-Hispanic",4,5,**,**,**,0,.,Cervical,Male and Female
+Hunterdon,10,Hispanic/Latino,5,22,**,**,**,0.121,0.751,Cervical,Male and Female
+Mercer,11,"Asian, non-Hispanic",1,41,**,**,**,0.174,0.34,Cervical,Male and Female
+Mercer,11,"Black/African American, non-Hispanic",2,100,0.853,0.73,0.926,0.096,0.334,Cervical,Male and Female
+Mercer,11,"White, non-Hispanic",3,359,0.891,0.841,0.926,0.042,0.196,Cervical,Male and Female
+Mercer,11,"Other, non-Hispanic",4,14,**,**,**,0,.,Cervical,Male and Female
+Mercer,11,Hispanic/Latino,5,71,0.793,0.656,0.885,0.114,0.281,Cervical,Male and Female
+Middlesex,12,"Asian, non-Hispanic",1,92,**,**,**,0.111,0.167,Cervical,Male and Female
+Middlesex,12,"Black/African American, non-Hispanic",2,57,0.833,0.681,0.921,0.118,0.359,Cervical,Male and Female
+Middlesex,12,"White, non-Hispanic",3,360,0.815,0.744,0.869,0.062,0.171,Cervical,Male and Female
+Middlesex,12,"Other, non-Hispanic",4,9,**,**,**,0.147,0.171,Cervical,Male and Female
+Middlesex,12,Hispanic/Latino,5,109,0.792,0.672,0.876,0.102,0.249,Cervical,Male and Female
+Monmouth,13,"Asian, non-Hispanic",1,16,**,**,**,0.125,0.234,Cervical,Male and Female
+Monmouth,13,"Black/African American, non-Hispanic",2,27,**,**,**,0.08,0.439,Cervical,Male and Female
+Monmouth,13,"White, non-Hispanic",3,466,0.877,0.826,0.915,0.044,0.183,Cervical,Male and Female
+Monmouth,13,"Other, non-Hispanic",4,14,**,**,**,0.089,0.709,Cervical,Male and Female
+Monmouth,13,Hispanic/Latino,5,56,0.896,0.771,0.957,0.088,0.432,Cervical,Male and Female
+Morris,14,"Asian, non-Hispanic",1,39,**,**,**,0.169,0.315,Cervical,Male and Female
+Morris,14,"Black/African American, non-Hispanic",2,22,**,**,**,0.134,0.472,Cervical,Male and Female
+Morris,14,"White, non-Hispanic",3,490,0.889,0.835,0.927,0.046,0.21,Cervical,Male and Female
+Morris,14,"Other, non-Hispanic",4,7,**,**,**,0.194,0.213,Cervical,Male and Female
+Morris,14,Hispanic/Latino,5,70,0.959,0.9,0.984,0.038,0.463,Cervical,Male and Female
+Ocean,15,"Asian, non-Hispanic",1,3,**,**,**,0,0,Cervical,Male and Female
+Ocean,15,"Black/African American, non-Hispanic",2,9,**,**,**,0,0,Cervical,Male and Female
+Ocean,15,"White, non-Hispanic",3,430,0.828,0.759,0.88,0.06,0.179,Cervical,Male and Female
+Ocean,15,"Other, non-Hispanic",4,7,**,**,**,0.163,0.831,Cervical,Male and Female
+Ocean,15,Hispanic/Latino,5,50,0.782,0.626,0.885,0.13,0.305,Cervical,Male and Female
+Passaic,16,"Asian, non-Hispanic",1,14,**,**,**,0.164,0.672,Cervical,Male and Female
+Passaic,16,"Black/African American, non-Hispanic",2,69,0.819,0.674,0.908,0.116,0.326,Cervical,Male and Female
+Passaic,16,"White, non-Hispanic",3,283,0.867,0.796,0.916,0.059,0.229,Cervical,Male and Female
+Passaic,16,"Other, non-Hispanic",4,10,**,**,**,0.223,0.6,Cervical,Male and Female
+Passaic,16,Hispanic/Latino,5,232,0.887,0.832,0.925,0.046,0.206,Cervical,Male and Female
+Salem,17,"Asian, non-Hispanic",1,1,**,**,**,0,.,Cervical,Male and Female
+Salem,17,"Black/African American, non-Hispanic",2,70,0.923,0.805,0.972,0.076,0.505,Cervical,Male and Female
+Salem,17,"White, non-Hispanic",3,401,0.797,0.726,0.853,0.064,0.161,Cervical,Male and Female
+Salem,17,"Other, non-Hispanic",4,15,**,**,**,0.228,0.251,Cervical,Male and Female
+Salem,17,Hispanic/Latino,5,25,**,**,**,0.204,0.258,Cervical,Male and Female
+Somerset,18,"Asian, non-Hispanic",1,55,0.807,0.632,0.911,0.139,0.368,Cervical,Male and Female
+Somerset,18,"Black/African American, non-Hispanic",2,38,**,**,**,0.185,0.312,Cervical,Male and Female
+Somerset,18,"White, non-Hispanic",3,438,0.881,0.814,0.926,0.055,0.235,Cervical,Male and Female
+Somerset,18,"Other, non-Hispanic",4,15,**,**,**,0.202,0.327,Cervical,Male and Female
+Somerset,18,Hispanic/Latino,5,63,0.892,0.79,0.947,0.076,0.356,Cervical,Male and Female
+Sussex,19,"Asian, non-Hispanic",1,9,**,**,**,0.119,0.156,Cervical,Male and Female
+Sussex,19,"Black/African American, non-Hispanic",2,16,**,**,**,0.103,0.694,Cervical,Male and Female
+Sussex,19,"White, non-Hispanic",3,474,0.858,0.799,0.901,0.051,0.183,Cervical,Male and Female
+Sussex,19,"Other, non-Hispanic",4,6,**,**,**,0.022,0.029,Cervical,Male and Female
+Sussex,19,Hispanic/Latino,5,41,**,**,**,0.15,0.493,Cervical,Male and Female
+Union,20,"Asian, non-Hispanic",1,13,**,**,**,0.135,0.278,Cervical,Male and Female
+Union,20,"Black/African American, non-Hispanic",2,141,0.873,0.779,0.931,0.074,0.298,Cervical,Male and Female
+Union,20,"White, non-Hispanic",3,353,0.798,0.692,0.874,0.091,0.229,Cervical,Male and Female
+Union,20,"Other, non-Hispanic",4,15,**,**,**,0.049,0.072,Cervical,Male and Female
+Union,20,Hispanic/Latino,5,170,0.804,0.7,0.878,0.089,0.231,Cervical,Male and Female
+Warren,21,"Asian, non-Hispanic",1,4,**,**,**,0,0,Cervical,Male and Female
+Warren,21,"Black/African American, non-Hispanic",2,16,**,**,**,0.164,0.86,Cervical,Male and Female
+Warren,21,"White, non-Hispanic",3,503,0.865,0.819,0.9,0.04,0.15,Cervical,Male and Female
+Warren,21,"Other, non-Hispanic",4,5,**,**,**,0.212,0.292,Cervical,Male and Female
+Warren,21,Hispanic/Latino,5,29,**,**,**,0.114,0.412,Cervical,Male and Female
